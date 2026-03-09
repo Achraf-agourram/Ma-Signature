@@ -13,8 +13,13 @@ return new class extends Migration
     {
         Schema::create('user_fragrance_statuses', function (Blueprint $table) {
             $table->id();
+            $table->boolean('status')->default(false);
+
+            $table->foreignId('client_id')->constrained('users')->cascadeOnDelete();
+            $table->foreignId('fragrance_id')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

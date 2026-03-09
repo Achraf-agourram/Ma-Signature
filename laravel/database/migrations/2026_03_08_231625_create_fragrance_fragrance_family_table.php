@@ -12,9 +12,11 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('fragrance_fragrance_family', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+            $table->foreignId('fragrance_id')->constrained()->cascadeOnDelete();
+            $table->foreignId('fragrance_family_id')->constrained()->cascadeOnDelete();
+            $table->primary(['fragrance_id','fragrance_family_id']);
         });
+
     }
 
     /**

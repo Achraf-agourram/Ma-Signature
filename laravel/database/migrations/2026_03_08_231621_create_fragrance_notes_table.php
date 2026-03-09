@@ -13,8 +13,13 @@ return new class extends Migration
     {
         Schema::create('fragrance_notes', function (Blueprint $table) {
             $table->id();
+            $table->enum('type',['top','heart','base']);
+
+            $table->foreignId('fragrance_id')->constrained()->cascadeOnDelete();
+            $table->foreignId('note_id')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

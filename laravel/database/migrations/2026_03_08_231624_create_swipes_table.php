@@ -13,8 +13,13 @@ return new class extends Migration
     {
         Schema::create('swipes', function (Blueprint $table) {
             $table->id();
+            $table->boolean('swipeType');
+
+            $table->foreignId('client_id')->constrained('users')->cascadeOnDelete();
+            $table->foreignId('fragrance_id')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

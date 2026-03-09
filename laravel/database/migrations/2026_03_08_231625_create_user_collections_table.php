@@ -13,8 +13,14 @@ return new class extends Migration
     {
         Schema::create('user_collections', function (Blueprint $table) {
             $table->id();
+
+            $table->foreignId('client_id')->constrained('users')->cascadeOnDelete();
+            $table->foreignId('fragrance_id')->constrained()->cascadeOnDelete();
+
+            $table->unique(['client_id','fragrance_id']);
             $table->timestamps();
         });
+
     }
 
     /**

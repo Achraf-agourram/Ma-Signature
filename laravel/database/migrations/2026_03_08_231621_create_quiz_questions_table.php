@@ -13,8 +13,14 @@ return new class extends Migration
     {
         Schema::create('quiz_questions', function (Blueprint $table) {
             $table->id();
+            $table->string('question');
+            $table->enum('type',['note','family','intensity']);
+
+            $table->foreignId('quiz_id')->constrained()->cascadeOnDelete();
+            $table->foreignId('admin_id')->constrained('users');
             $table->timestamps();
         });
+
     }
 
     /**

@@ -11,10 +11,14 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('feedback', function (Blueprint $table) {
+        Schema::create('feedbacks', function (Blueprint $table) {
             $table->id();
+            $table->integer('rating');
+
+            $table->foreignId('client_id')->constrained('users')->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

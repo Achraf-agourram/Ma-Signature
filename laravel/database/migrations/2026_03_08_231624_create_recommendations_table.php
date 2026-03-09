@@ -13,8 +13,13 @@ return new class extends Migration
     {
         Schema::create('recommendations', function (Blueprint $table) {
             $table->id();
+            $table->integer('score');
+
+            $table->foreignId('profile_scent_id')->constrained()->cascadeOnDelete();
+            $table->foreignId('fragrance_id')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

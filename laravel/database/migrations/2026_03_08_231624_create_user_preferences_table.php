@@ -13,8 +13,13 @@ return new class extends Migration
     {
         Schema::create('user_preferences', function (Blueprint $table) {
             $table->id();
+            $table->float('weight');
+
+            $table->foreignId('answer_id')->constrained('quiz_answers')->cascadeOnDelete();
+            $table->foreignId('client_id')->constrained('users')->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

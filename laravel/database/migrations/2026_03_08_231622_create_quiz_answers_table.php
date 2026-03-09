@@ -13,8 +13,12 @@ return new class extends Migration
     {
         Schema::create('quiz_answers', function (Blueprint $table) {
             $table->id();
+            $table->enum('answer',['yes','no','middle']);
+
+            $table->foreignId('question_id')->constrained('quiz_questions')->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

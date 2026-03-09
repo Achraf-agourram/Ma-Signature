@@ -13,8 +13,12 @@ return new class extends Migration
     {
         Schema::create('user_quiz_results', function (Blueprint $table) {
             $table->id();
+            $table->float('score');
+
+            $table->foreignId('client_id')->unique()->constrained('users')->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

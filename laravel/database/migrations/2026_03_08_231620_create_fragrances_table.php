@@ -13,8 +13,16 @@ return new class extends Migration
     {
         Schema::create('fragrances', function (Blueprint $table) {
             $table->id();
+            $table->string('name');
+            $table->enum('intensity', ['soft','moderate','strong']);
+            $table->enum('season', ['winter','summer','spring']);
+            $table->enum('vibe', ['bold','elegant','dark','fresh']);
+            $table->text('description');
+            
+            $table->foreignId('maison_id')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });
+
     }
 
     /**

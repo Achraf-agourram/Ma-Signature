@@ -13,8 +13,10 @@ return new class extends Migration
     {
         Schema::create('fragrance_families', function (Blueprint $table) {
             $table->id();
+            $table->string('name');
             $table->timestamps();
         });
+
     }
 
     /**
