@@ -13,10 +13,6 @@ class Note extends Model
 
     public function fragrances()
     {
-        return $this->belongsToMany(
-            Fragrance::class,
-            'fragrance_notes'
-        )->withPivot('type')
-         ->withTimestamps();
+        return $this->belongsToMany(Fragrance::class, 'fragrance_notes')->withPivot('type')->withTimestamps();
     }
 }
