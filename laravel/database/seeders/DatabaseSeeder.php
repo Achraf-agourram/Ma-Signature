@@ -20,7 +20,7 @@ class DatabaseSeeder extends Seeder
             NoteSeeder::class,
             MaisonSeeder::class,
             FragranceSeeder::class,
-            FragranceNoteSeeder::class,
+            //FragranceNoteSeeder::class,
         ]);
     }
 }

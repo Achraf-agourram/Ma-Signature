@@ -103,7 +103,7 @@ class MaisonSeeder extends Seeder
 
         foreach ($maisons as $maison) {
             Maison::create([
-                'name' => $maison
+                'maison' => $maison
             ]);
         }
     }

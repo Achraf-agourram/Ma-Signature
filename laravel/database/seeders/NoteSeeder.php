@@ -30,7 +30,7 @@ class NoteSeeder extends Seeder
 
         foreach ($notes as $note) {
             Note::create([
-                'name' => $note
+                'note' => $note
             ]);
         }
     }
