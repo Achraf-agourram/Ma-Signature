@@ -7,6 +7,12 @@ use Illuminate\Database\Eloquent\Model;
 
 class FragranceFamily extends Model
 {
-    /** @use HasFactory<\Database\Factories\FragranceFamilyFactory> */
     use HasFactory;
+
+    protected $fillable = ['name'];
+
+    public function fragrances()
+    {
+        return $this->belongsToMany(Fragrance::class, 'fragrance_fragrance_family');
+    }
 }

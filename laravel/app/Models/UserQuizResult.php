@@ -7,6 +7,15 @@ use Illuminate\Database\Eloquent\Model;
 
 class UserQuizResult extends Model
 {
-    /** @use HasFactory<\Database\Factories\UserQuizResultFactory> */
     use HasFactory;
+
+    protected $fillable = [
+        'score',
+        'client_id'
+    ];
+
+    public function client()
+    {
+        return $this->belongsTo(User::class, 'client_id');
+    }
 }

@@ -7,6 +7,21 @@ use Illuminate\Database\Eloquent\Model;
 
 class UserFragranceStatus extends Model
 {
-    /** @use HasFactory<\Database\Factories\UserFragranceStatusFactory> */
     use HasFactory;
+
+    protected $fillable = [
+        'status',
+        'client_id',
+        'fragrance_id'
+    ];
+
+    public function client()
+    {
+        return $this->belongsTo(User::class, 'client_id');
+    }
+
+    public function fragrance()
+    {
+        return $this->belongsTo(Fragrance::class);
+    }
 }

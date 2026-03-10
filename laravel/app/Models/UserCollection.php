@@ -5,17 +5,22 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Feedback extends Model
+class UserCollection extends Model
 {
     use HasFactory;
-
+    
     protected $fillable = [
-        'rating',
-        'client_id'
+        'client_id',
+        'fragrance_id'
     ];
 
     public function client()
     {
         return $this->belongsTo(User::class, 'client_id');
+    }
+
+    public function fragrance()
+    {
+        return $this->belongsTo(Fragrance::class);
     }
 }

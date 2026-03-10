@@ -7,6 +7,20 @@ use Illuminate\Database\Eloquent\Model;
 
 class QuizAnswer extends Model
 {
-    /** @use HasFactory<\Database\Factories\QuizAnswerFactory> */
     use HasFactory;
+
+    protected $fillable = [
+        'answer',
+        'question_id'
+    ];
+
+    public function question()
+    {
+        return $this->belongsTo(QuizQuestion::class);
+    }
+
+    public function preferences()
+    {
+        return $this->hasMany(UserPreference::class, 'answer_id');
+    }
 }
