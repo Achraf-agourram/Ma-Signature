@@ -17,6 +17,7 @@ return new class extends Migration
             $table->enum('intensity', ['soft','moderate','strong']);
             $table->enum('season', ['winter','summer','spring']);
             $table->enum('vibe', ['bold','elegant','dark','fresh']);
+            $table->text('image');
             $table->text('description');
             
             $table->foreignId('maison_id')->constrained()->cascadeOnDelete();

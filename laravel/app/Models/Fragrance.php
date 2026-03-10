@@ -14,6 +14,7 @@ class Fragrance extends Model
         'intensity',
         'season',
         'vibe',
+        'image',
         'description',
         'maison_id'
     ];
@@ -25,11 +26,7 @@ class Fragrance extends Model
 
     public function notes()
     {
-        return $this->belongsToMany(
-            Note::class,
-            'fragrance_notes'
-        )->withPivot('type')
-         ->withTimestamps();
+        return $this->belongsToMany(Note::class, 'fragrance_notes')->withPivot('type')->withTimestamps();
     }
 
     public function families()
@@ -42,7 +39,7 @@ class Fragrance extends Model
         return $this->hasMany(Swipe::class);
     }
 
-    public function statuses()
+    public function status()
     {
         return $this->hasMany(UserFragranceStatus::class);
     }
