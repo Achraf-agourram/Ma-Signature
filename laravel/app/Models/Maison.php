@@ -7,6 +7,12 @@ use Illuminate\Database\Eloquent\Model;
 
 class Maison extends Model
 {
-    /** @use HasFactory<\Database\Factories\MaisonFactory> */
     use HasFactory;
+
+    protected $fillable = ['maison'];
+
+    public function fragrances()
+    {
+        return $this->hasMany(Fragrance::class);
+    }
 }
