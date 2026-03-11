@@ -197,41 +197,6 @@
         ]
     },
     {
-        "name": "Eau Sauvage",
-        "maison": "Dior",
-        "intensity": "soft",
-        "season": "summer",
-        "vibe": "fresh",
-        "description": "Eau Sauvage is a classic citrus fragrance by Dior.",
-        "image": "eau-sauvage.jpg",
-        "notes": {
-            "top": [
-                "Lemon",
-                "Bergamot",
-                "Basil",
-                "Rosemary",
-                "Caraway"
-            ],
-            "heart": [
-                "Jasmine",
-                "Coriander",
-                "Patchouli",
-                "Carnation"
-            ],
-            "base": [
-                "Oakmoss",
-                "Vetiver",
-                "Musk",
-                "Amber"
-            ]
-        },
-        "families": [
-            "Aromatic",
-            "Fresh",
-            "Citrus"
-        ]
-    },
-    {
         "name": "Bleu de Chanel",
         "maison": "Chanel",
         "intensity": "moderate",
