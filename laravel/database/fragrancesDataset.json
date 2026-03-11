@@ -6,7 +6,27 @@
         "season": "summer",
         "vibe": "bold",
         "description": "Sauvage is a fresh spicy fragrance by Dior.",
-        "image": "sauvage.jpg"
+        "image": "sauvage.jpg",
+        "notes": {
+            "top": [
+                "Calabrian bergamot",
+                "Pepper"
+            ],
+            "heart": [
+                "Lavender",
+                "Sichuan pepper",
+                "Pink pepper",
+                "Vetiver",
+                "Patchouli",
+                "Geranium",
+                "Elemi"
+            ],
+            "base": [
+                "Ambroxan",
+                "Cedar",
+                "Labdanum"
+            ]
+        }
     },
     {
         "name": "Sauvage Elixir",
@@ -15,7 +35,25 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Sauvage Elixir is a rich and powerful fragrance by Dior.",
-        "image": "sauvage-elixir.jpg"
+        "image": "sauvage-elixir.jpg",
+        "notes": {
+            "top": [
+                "Cinnamon",
+                "Nutmeg",
+                "Cardamom",
+                "Grapefruit"
+            ],
+            "heart": [
+                "Lavender"
+            ],
+            "base": [
+                "Licorice",
+                "Sandalwood",
+                "Amber",
+                "Patchouli",
+                "Haitian vetiver"
+            ]
+        }
     },
     {
         "name": "Fahrenheit",
@@ -24,7 +62,36 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Fahrenheit is a legendary leather fragrance by Dior.",
-        "image": "fahrenheit.jpg"
+        "image": "fahrenheit.jpg",
+        "notes": {
+            "top": [
+                "Nutmeg flower",
+                "Lavender",
+                "Cedar",
+                "Mandarin orange",
+                "Chamomile",
+                "Hawthorn",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Violet leaf",
+                "Nutmeg",
+                "Cedar",
+                "Sandalwood",
+                "Carnation",
+                "Honeysuckle",
+                "Jasmine"
+            ],
+            "base": [
+                "Leather",
+                "Vetiver",
+                "Musk",
+                "Amber",
+                "Patchouli",
+                "Tonka bean"
+            ]
+        }
     },
     {
         "name": "Dior Homme",
@@ -33,7 +100,24 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Dior Homme is a refined woody fragrance by Dior.",
-        "image": "dior-homme.jpg"
+        "image": "dior-homme.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Pink pepper",
+                "Elemi"
+            ],
+            "heart": [
+                "Cashmere wood",
+                "Atlas cedar",
+                "Patchouli"
+            ],
+            "base": [
+                "Iso E Super",
+                "Haitian vetiver",
+                "White musk"
+            ]
+        }
     },
     {
         "name": "Dior Homme Intense",
@@ -42,7 +126,21 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Dior Homme Intense is a luxurious iris fragrance by Dior.",
-        "image": "dior-homme-intense.jpg"
+        "image": "dior-homme-intense.jpg",
+        "notes": {
+            "top": [
+                "Lavender"
+            ],
+            "heart": [
+                "Iris",
+                "Ambrette",
+                "Pear"
+            ],
+            "base": [
+                "Virginia cedar",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Dior Homme Parfum",
@@ -51,7 +149,22 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Dior Homme Parfum is a deep leather iris fragrance by Dior.",
-        "image": "dior-homme-parfum.jpg"
+        "image": "dior-homme-parfum.jpg",
+        "notes": {
+            "top": [
+                "Orange",
+                "Iris"
+            ],
+            "heart": [
+                "Rose",
+                "Leather"
+            ],
+            "base": [
+                "Sandalwood",
+                "Agarwood",
+                "Ambrette"
+            ]
+        }
     },
     {
         "name": "Eau Sauvage",
@@ -60,7 +173,28 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Eau Sauvage is a classic citrus fragrance by Dior.",
-        "image": "eau-sauvage.jpg"
+        "image": "eau-sauvage.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Bergamot",
+                "Basil",
+                "Rosemary",
+                "Caraway"
+            ],
+            "heart": [
+                "Jasmine",
+                "Coriander",
+                "Patchouli",
+                "Carnation"
+            ],
+            "base": [
+                "Oakmoss",
+                "Vetiver",
+                "Musk",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Bleu de Chanel",
@@ -69,7 +203,29 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Bleu de Chanel is a timeless woody aromatic fragrance.",
-        "image": "bleu-de-chanel.jpg"
+        "image": "bleu-de-chanel.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Lemon",
+                "Mint",
+                "Pink pepper"
+            ],
+            "heart": [
+                "Ginger",
+                "Nutmeg",
+                "Jasmine",
+                "Iso E Super"
+            ],
+            "base": [
+                "Incense",
+                "Vetiver",
+                "Cedar",
+                "Sandalwood",
+                "Patchouli",
+                "Labdanum"
+            ]
+        }
     },
     {
         "name": "Bleu de Chanel Parfum",
@@ -78,7 +234,25 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Bleu de Chanel Parfum is a deeper interpretation of Bleu.",
-        "image": "bleu-de-chanel-parfum.jpg"
+        "image": "bleu-de-chanel-parfum.jpg",
+        "notes": {
+            "top": [
+                "Lemon zest",
+                "Bergamot",
+                "Mint"
+            ],
+            "heart": [
+                "Lavender",
+                "Geranium",
+                "Pineapple"
+            ],
+            "base": [
+                "Sandalwood",
+                "Cedar",
+                "Iso E Super",
+                "Tonka bean"
+            ]
+        }
     },
     {
         "name": "Bleu de Chanel EDP",
@@ -87,7 +261,26 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Bleu de Chanel Eau de Parfum offers balance and refinement.",
-        "image": "bleu-de-chanel-edp.jpg"
+        "image": "bleu-de-chanel-edp.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Lemon",
+                "Mint",
+                "Pink pepper"
+            ],
+            "heart": [
+                "Ginger",
+                "Nutmeg",
+                "Jasmine"
+            ],
+            "base": [
+                "Incense",
+                "Cedar",
+                "Sandalwood",
+                "Patchouli"
+            ]
+        }
     },
     {
         "name": "Allure Homme Sport",
@@ -96,7 +289,27 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Allure Homme Sport is a bright energetic fragrance.",
-        "image": "allure-homme-sport.jpg"
+        "image": "allure-homme-sport.jpg",
+        "notes": {
+            "top": [
+                "Orange",
+                "Mandarin orange",
+                "Sea notes",
+                "Aldehydes"
+            ],
+            "heart": [
+                "Pepper",
+                "Neroli",
+                "Cedar"
+            ],
+            "base": [
+                "Tonka bean",
+                "Vanilla",
+                "White musk",
+                "Amber",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Allure Homme Edition Blanche",
@@ -105,7 +318,22 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Edition Blanche features lemon and creamy woods.",
-        "image": "allure-edition-blanche.jpg"
+        "image": "allure-edition-blanche.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Bergamot"
+            ],
+            "heart": [
+                "Sandalwood",
+                "Ginger"
+            ],
+            "base": [
+                "Vanilla",
+                "Amber",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Platinum Egoiste",
@@ -114,7 +342,28 @@
         "season": "spring",
         "vibe": "fresh",
         "description": "Platinum Egoiste is a classic aromatic fougere.",
-        "image": "platinum-egoiste.jpg"
+        "image": "platinum-egoiste.jpg",
+        "notes": {
+            "top": [
+                "Lavender",
+                "Rosemary",
+                "Neroli",
+                "Petitgrain"
+            ],
+            "heart": [
+                "Geranium",
+                "Clary sage",
+                "Galbanum",
+                "Jasmine"
+            ],
+            "base": [
+                "Oakmoss",
+                "Vetiver",
+                "Cedar",
+                "Sandalwood",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Antaeus",
@@ -123,7 +372,29 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Antaeus is a powerful leather fragrance.",
-        "image": "antaeus.jpg"
+        "image": "antaeus.jpg",
+        "notes": {
+            "top": [
+                "Coriander",
+                "Myrtle",
+                "Clary sage",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Thyme",
+                "Basil",
+                "Rose",
+                "Jasmine"
+            ],
+            "base": [
+                "Leather",
+                "Oakmoss",
+                "Patchouli",
+                "Labdanum",
+                "Castoreum"
+            ]
+        }
     },
     {
         "name": "Y",
@@ -132,7 +403,25 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Y is a modern aromatic fragrance by YSL.",
-        "image": "ysl-y.jpg"
+        "image": "ysl-y.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Ginger",
+                "Lemon"
+            ],
+            "heart": [
+                "Apple",
+                "Sage",
+                "Juniper berries"
+            ],
+            "base": [
+                "Amberwood",
+                "Tonka bean",
+                "Vetiver",
+                "Cedar"
+            ]
+        }
     },
     {
         "name": "Y Eau de Parfum",
@@ -141,7 +430,26 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Y EDP is a powerful aromatic fougere.",
-        "image": "ysl-y-edp.jpg"
+        "image": "ysl-y-edp.jpg",
+        "notes": {
+            "top": [
+                "Apple",
+                "Ginger",
+                "Bergamot"
+            ],
+            "heart": [
+                "Sage",
+                "Juniper berries",
+                "Geranium"
+            ],
+            "base": [
+                "Amberwood",
+                "Tonka bean",
+                "Vetiver",
+                "Cedar",
+                "Olibanum"
+            ]
+        }
     },
     {
         "name": "La Nuit de L'Homme",
@@ -150,7 +458,21 @@
         "season": "winter",
         "vibe": "dark",
         "description": "La Nuit de L'Homme is a seductive spicy fragrance.",
-        "image": "la-nuit-de-lhomme.jpg"
+        "image": "la-nuit-de-lhomme.jpg",
+        "notes": {
+            "top": [
+                "Cardamom"
+            ],
+            "heart": [
+                "Lavender",
+                "Virginia cedar",
+                "Bergamot"
+            ],
+            "base": [
+                "Vetiver",
+                "Caraway"
+            ]
+        }
     },
     {
         "name": "L'Homme",
@@ -159,7 +481,25 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "L'Homme is a refined woody spicy fragrance.",
-        "image": "ysl-lhomme.jpg"
+        "image": "ysl-lhomme.jpg",
+        "notes": {
+            "top": [
+                "Ginger",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Spices",
+                "White pepper",
+                "Basil",
+                "Violet leaf"
+            ],
+            "base": [
+                "Tonka bean",
+                "Cedar",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Kouros",
@@ -168,7 +508,32 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Kouros is a legendary bold masculine fragrance.",
-        "image": "kouros.jpg"
+        "image": "kouros.jpg",
+        "notes": {
+            "top": [
+                "Aldehydes",
+                "Artemisia",
+                "Coriander",
+                "Clary sage",
+                "Bergamot"
+            ],
+            "heart": [
+                "Carnation",
+                "Patchouli",
+                "Cinnamon",
+                "Orris root",
+                "Jasmine"
+            ],
+            "base": [
+                "Honey",
+                "Leather",
+                "Oakmoss",
+                "Musk",
+                "Civet",
+                "Amber",
+                "Tonka bean"
+            ]
+        }
     },
     {
         "name": "M7 Oud Absolu",
@@ -177,7 +542,20 @@
         "season": "winter",
         "vibe": "dark",
         "description": "M7 Oud Absolu highlights rich oud notes.",
-        "image": "m7-oud-absolu.jpg"
+        "image": "m7-oud-absolu.jpg",
+        "notes": {
+            "top": [
+                "Mandarin orange"
+            ],
+            "heart": [
+                "Patchouli"
+            ],
+            "base": [
+                "Agarwood (Oud)",
+                "Amber",
+                "Labdanum"
+            ]
+        }
     },
     {
         "name": "Acqua di Gio",
@@ -186,7 +564,37 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Acqua di Gio is a classic marine fragrance.",
-        "image": "acqua-di-gio.jpg"
+        "image": "acqua-di-gio.jpg",
+        "notes": {
+            "top": [
+                "Lime",
+                "Lemon",
+                "Bergamot",
+                "Jasmine",
+                "Orange",
+                "Mandarin orange",
+                "Neroli"
+            ],
+            "heart": [
+                "Sea notes",
+                "Jasmine",
+                "Calone",
+                "Rosemary",
+                "Peach",
+                "Freesia",
+                "Violet",
+                "Coriander",
+                "Nutmeg",
+                "Rose"
+            ],
+            "base": [
+                "White musk",
+                "Cedar",
+                "Oakmoss",
+                "Patchouli",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Acqua di Gio Profumo",
@@ -195,7 +603,22 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Profumo adds incense to the classic DNA.",
-        "image": "acqua-di-gio-profumo.jpg"
+        "image": "acqua-di-gio-profumo.jpg",
+        "notes": {
+            "top": [
+                "Sea notes",
+                "Bergamot"
+            ],
+            "heart": [
+                "Rosemary",
+                "Sage",
+                "Geranium"
+            ],
+            "base": [
+                "Incense",
+                "Patchouli"
+            ]
+        }
     },
     {
         "name": "Acqua di Gio Profondo",
@@ -204,7 +627,27 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Profondo is a modern aquatic fragrance.",
-        "image": "acqua-di-gio-profondo.jpg"
+        "image": "acqua-di-gio-profondo.jpg",
+        "notes": {
+            "top": [
+                "Sea notes",
+                "Aquozone",
+                "Bergamot",
+                "Green mandarin"
+            ],
+            "heart": [
+                "Rosemary",
+                "Lavender",
+                "Cypress",
+                "Mastic"
+            ],
+            "base": [
+                "Mineral notes",
+                "Musk",
+                "Patchouli",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Armani Code",
@@ -213,7 +656,23 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Armani Code is a smooth tonka fragrance.",
-        "image": "armani-code.jpg"
+        "image": "armani-code.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Star anise",
+                "Olive blossom",
+                "Guaiac wood"
+            ],
+            "base": [
+                "Tonka bean",
+                "Leather",
+                "Tobacco"
+            ]
+        }
     },
     {
         "name": "Stronger With You",
@@ -222,7 +681,23 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Stronger With You is warm and sweet.",
-        "image": "stronger-with-you.jpg"
+        "image": "stronger-with-you.jpg",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Pink pepper",
+                "Violet leaf"
+            ],
+            "heart": [
+                "Sage",
+                "Melon"
+            ],
+            "base": [
+                "Vanilla",
+                "Chestnut",
+                "Amberwood"
+            ]
+        }
     },
     {
         "name": "1 Million",
@@ -231,7 +706,25 @@
         "season": "winter",
         "vibe": "bold",
         "description": "1 Million is a sweet spicy fragrance.",
-        "image": "1-million.jpg"
+        "image": "1-million.jpg",
+        "notes": {
+            "top": [
+                "Blood mandarin",
+                "Grapefruit",
+                "Mint"
+            ],
+            "heart": [
+                "Cinnamon",
+                "Spicy notes",
+                "Rose"
+            ],
+            "base": [
+                "Amber",
+                "Leather",
+                "Woody notes",
+                "Indian patchouli"
+            ]
+        }
     },
     {
         "name": "1 Million Lucky",
@@ -240,7 +733,27 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Lucky blends hazelnut sweetness.",
-        "image": "1-million-lucky.jpg"
+        "image": "1-million-lucky.jpg",
+        "notes": {
+            "top": [
+                "Plum",
+                "Ozone",
+                "Grapefruit",
+                "Bergamot"
+            ],
+            "heart": [
+                "Hazelnut",
+                "Honey",
+                "Cedar",
+                "Cashmere wood"
+            ],
+            "base": [
+                "Amberwood",
+                "Patchouli",
+                "Oakmoss",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Invictus",
@@ -249,7 +762,24 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Invictus is a sporty aquatic fragrance.",
-        "image": "invictus.jpg"
+        "image": "invictus.jpg",
+        "notes": {
+            "top": [
+                "Sea notes",
+                "Grapefruit",
+                "Mandarin orange"
+            ],
+            "heart": [
+                "Bay leaf",
+                "Jasmine"
+            ],
+            "base": [
+                "Ambergris",
+                "Guaiac wood",
+                "Oakmoss",
+                "Patchouli"
+            ]
+        }
     },
     {
         "name": "Invictus Victory",
@@ -258,7 +788,22 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Victory combines vanilla and amber.",
-        "image": "invictus-victory.jpg"
+        "image": "invictus-victory.jpg",
+        "notes": {
+            "top": [
+                "Pink pepper",
+                "Lemon"
+            ],
+            "heart": [
+                "Olibanum",
+                "Lavender"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka bean",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Phantom",
@@ -267,7 +812,26 @@
         "season": "spring",
         "vibe": "bold",
         "description": "Phantom is a modern aromatic fragrance.",
-        "image": "phantom.jpg"
+        "image": "phantom.jpg",
+        "notes": {
+            "top": [
+                "Lavender",
+                "Lemon zest",
+                "Amalfi lemon"
+            ],
+            "heart": [
+                "Lavender",
+                "Apple",
+                "Smoke",
+                "Earthy notes",
+                "Patchouli"
+            ],
+            "base": [
+                "Vanilla",
+                "Lavender",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Le Male",
@@ -276,7 +840,28 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Le Male is a classic lavender vanilla scent.",
-        "image": "le-male.jpg"
+        "image": "le-male.jpg",
+        "notes": {
+            "top": [
+                "Lavender",
+                "Mint",
+                "Cardamom",
+                "Bergamot",
+                "Artemisia"
+            ],
+            "heart": [
+                "Cinnamon",
+                "Orange blossom",
+                "Caraway"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka bean",
+                "Amber",
+                "Sandalwood",
+                "Cedar"
+            ]
+        }
     },
     {
         "name": "Ultra Male",
@@ -285,7 +870,27 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Ultra Male is sweeter and stronger.",
-        "image": "ultra-male.jpg"
+        "image": "ultra-male.jpg",
+        "notes": {
+            "top": [
+                "Pear",
+                "Lavender",
+                "Mint",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Cinnamon",
+                "Clary sage",
+                "Caraway"
+            ],
+            "base": [
+                "Black vanilla husk",
+                "Amber",
+                "Patchouli",
+                "Cedar"
+            ]
+        }
     },
     {
         "name": "Le Male Le Parfum",
@@ -294,7 +899,21 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Le Male Le Parfum adds cardamom warmth.",
-        "image": "le-male-parfum.jpg"
+        "image": "le-male-parfum.jpg",
+        "notes": {
+            "top": [
+                "Cardamom"
+            ],
+            "heart": [
+                "Lavender",
+                "Iris"
+            ],
+            "base": [
+                "Vanilla",
+                "Oriental notes",
+                "Woody notes"
+            ]
+        }
     },
     {
         "name": "Scandal Pour Homme",
@@ -303,7 +922,20 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Scandal combines caramel sweetness.",
-        "image": "scandal.jpg"
+        "image": "scandal.jpg",
+        "notes": {
+            "top": [
+                "Mandarin orange",
+                "Clary sage"
+            ],
+            "heart": [
+                "Caramel",
+                "Tonka bean"
+            ],
+            "base": [
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Eros",
@@ -312,7 +944,25 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Eros is a sweet mint vanilla fragrance.",
-        "image": "eros.jpg"
+        "image": "eros.jpg",
+        "notes": {
+            "top": [
+                "Mint",
+                "Green apple",
+                "Lemon"
+            ],
+            "heart": [
+                "Tonka bean",
+                "Ambroxan",
+                "Geranium"
+            ],
+            "base": [
+                "Vanilla",
+                "Vetiver",
+                "Oakmoss",
+                "Cedar"
+            ]
+        }
     },
     {
         "name": "Eros Flame",
@@ -321,7 +971,29 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Eros Flame adds spicy citrus warmth.",
-        "image": "eros-flame.jpg"
+        "image": "eros-flame.jpg",
+        "notes": {
+            "top": [
+                "Mandarin orange",
+                "Black pepper",
+                "Chinotto",
+                "Lemon",
+                "Rosemary"
+            ],
+            "heart": [
+                "Pepper",
+                "Geranium",
+                "Rose"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka bean",
+                "Sandalwood",
+                "Texas cedar",
+                "Patchouli",
+                "Oakmoss"
+            ]
+        }
     },
     {
         "name": "Versace Pour Homme",
@@ -330,7 +1002,26 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Versace Pour Homme is a clean citrus scent.",
-        "image": "versace-pour-homme.jpg"
+        "image": "versace-pour-homme.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Bergamot",
+                "Neroli",
+                "Rose de Mai"
+            ],
+            "heart": [
+                "Hyacinth",
+                "Cedar",
+                "Clary sage",
+                "Geranium"
+            ],
+            "base": [
+                "Tonka bean",
+                "Musk",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Dylan Blue",
@@ -339,7 +1030,27 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Dylan Blue is a modern blue fragrance.",
-        "image": "dylan-blue.jpg"
+        "image": "dylan-blue.jpg",
+        "notes": {
+            "top": [
+                "Calabrian bergamot",
+                "Grapefruit",
+                "Fig leaf",
+                "Water notes"
+            ],
+            "heart": [
+                "Black pepper",
+                "Patchouli",
+                "Violet leaf",
+                "Papyrus"
+            ],
+            "base": [
+                "Musk",
+                "Tonka bean",
+                "Saffron",
+                "Incense"
+            ]
+        }
     },
     {
         "name": "The One",
@@ -348,7 +1059,24 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "The One is a warm amber fragrance.",
-        "image": "the-one.jpg"
+        "image": "the-one.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Coriander",
+                "Basil"
+            ],
+            "heart": [
+                "Cardamom",
+                "Ginger",
+                "Orange blossom"
+            ],
+            "base": [
+                "Amber",
+                "Tobacco",
+                "Cedar"
+            ]
+        }
     },
     {
         "name": "Light Blue",
@@ -357,7 +1085,25 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Light Blue is a citrus summer fragrance.",
-        "image": "light-blue.jpg"
+        "image": "light-blue.jpg",
+        "notes": {
+            "top": [
+                "Sicilian lemon",
+                "Apple",
+                "Cedar",
+                "Bellflower"
+            ],
+            "heart": [
+                "Bamboo",
+                "Jasmine",
+                "White rose"
+            ],
+            "base": [
+                "Cedar",
+                "Musk",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Light Blue Eau Intense",
@@ -366,7 +1112,21 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Light Blue Eau Intense is a deeper aquatic citrus fragrance.",
-        "image": "light-blue-eau-intense.jpg"
+        "image": "light-blue-eau-intense.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Mandarin orange"
+            ],
+            "heart": [
+                "Sea water",
+                "Juniper"
+            ],
+            "base": [
+                "Amberwood",
+                "Musk"
+            ]
+        }
     },
     {
         "name": "K",
@@ -375,7 +1135,26 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "K by Dolce & Gabbana is a fresh woody aromatic scent.",
-        "image": "k-dolce-gabbana.jpg"
+        "image": "k-dolce-gabbana.jpg",
+        "notes": {
+            "top": [
+                "Blood orange",
+                "Juniper berries",
+                "Citrus",
+                "Sicilian lemon"
+            ],
+            "heart": [
+                "Pimento",
+                "Clary sage",
+                "Lavender",
+                "Geranium"
+            ],
+            "base": [
+                "Vetiver",
+                "Cedar",
+                "Patchouli"
+            ]
+        }
     },
     {
         "name": "Oud Wood",
@@ -384,7 +1163,24 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Oud Wood is a smooth luxurious oud fragrance.",
-        "image": "oud-wood.jpg"
+        "image": "oud-wood.jpg",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Pepper",
+                "Rosewood"
+            ],
+            "heart": [
+                "Agarwood (Oud)",
+                "Sandalwood",
+                "Vetiver"
+            ],
+            "base": [
+                "Tonka bean",
+                "Vanilla",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Tobacco Vanille",
@@ -393,7 +1189,23 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Tobacco Vanille blends rich tobacco and vanilla.",
-        "image": "tobacco-vanille.jpg"
+        "image": "tobacco-vanille.jpg",
+        "notes": {
+            "top": [
+                "Tobacco leaf",
+                "Spicy notes"
+            ],
+            "heart": [
+                "Vanilla",
+                "Cacao",
+                "Tonka bean",
+                "Tobacco blossom"
+            ],
+            "base": [
+                "Dried fruits",
+                "Woody notes"
+            ]
+        }
     },
     {
         "name": "Tuscan Leather",
@@ -402,7 +1214,24 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Tuscan Leather is a bold leather fragrance.",
-        "image": "tuscan-leather.jpg"
+        "image": "tuscan-leather.jpg",
+        "notes": {
+            "top": [
+                "Saffron",
+                "Thyme",
+                "Raspberry"
+            ],
+            "heart": [
+                "Olibanum",
+                "Jasmine"
+            ],
+            "base": [
+                "Leather",
+                "Suede",
+                "Woody notes",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Ombre Leather",
@@ -411,7 +1240,21 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Ombre Leather is a modern leather fragrance.",
-        "image": "ombre-leather.jpg"
+        "image": "ombre-leather.jpg",
+        "notes": {
+            "top": [
+                "Cardamom"
+            ],
+            "heart": [
+                "Leather",
+                "Jasmine sambac"
+            ],
+            "base": [
+                "Amber",
+                "Moss",
+                "Patchouli"
+            ]
+        }
     },
     {
         "name": "Noir Extreme",
@@ -420,7 +1263,27 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Noir Extreme is a rich spicy oriental fragrance.",
-        "image": "noir-extreme.jpg"
+        "image": "noir-extreme.jpg",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Nutmeg",
+                "Saffron",
+                "Mandarin orange",
+                "Neroli"
+            ],
+            "heart": [
+                "Kulfi",
+                "Rose",
+                "Jasmine",
+                "Orange blossom"
+            ],
+            "base": [
+                "Vanilla",
+                "Amber",
+                "Sandalwood"
+            ]
+        }
     },
     {
         "name": "Grey Vetiver",
@@ -429,7 +1292,25 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Grey Vetiver is a sophisticated vetiver fragrance.",
-        "image": "grey-vetiver.jpg"
+        "image": "grey-vetiver.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Orange blossom",
+                "Sage"
+            ],
+            "heart": [
+                "Nutmeg",
+                "Orris root",
+                "Pimento"
+            ],
+            "base": [
+                "Vetiver",
+                "Woody notes",
+                "Amber",
+                "Oakmoss"
+            ]
+        }
     },
     {
         "name": "Black Orchid",
@@ -438,7 +1319,32 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Black Orchid is a deep mysterious floral oriental scent.",
-        "image": "black-orchid.jpg"
+        "image": "black-orchid.jpg",
+        "notes": {
+            "top": [
+                "Truffle",
+                "Gardenia",
+                "Black currant",
+                "Ylang-ylang",
+                "Jasmine",
+                "Bergamot",
+                "Mandarin orange"
+            ],
+            "heart": [
+                "Black orchid",
+                "Spices",
+                "Lotus"
+            ],
+            "base": [
+                "Patchouli",
+                "Vanilla",
+                "Incense",
+                "Amber",
+                "Sandalwood",
+                "Vetiver",
+                "Chocolate"
+            ]
+        }
     },
     {
         "name": "Lost Cherry",
@@ -447,7 +1353,27 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Lost Cherry is a sweet cherry almond fragrance.",
-        "image": "lost-cherry.jpg"
+        "image": "lost-cherry.jpg",
+        "notes": {
+            "top": [
+                "Black cherry",
+                "Cherry liqueur",
+                "Bitter almond"
+            ],
+            "heart": [
+                "Cherry",
+                "Turkish rose",
+                "Jasmine sambac"
+            ],
+            "base": [
+                "Tonka bean",
+                "Vanilla",
+                "Cinnamon",
+                "Peru balsam",
+                "Benzoin",
+                "Sandalwood"
+            ]
+        }
     },
     {
         "name": "Aventus",
@@ -455,6 +1381,26 @@
         "intensity": "strong",
         "season": "spring",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Pineapple",
+                "Bergamot",
+                "Blackcurrant",
+                "Apple"
+            ],
+            "heart": [
+                "Birch",
+                "Patchouli",
+                "Jasmine",
+                "Rose"
+            ],
+            "base": [
+                "Musk",
+                "Oakmoss",
+                "Ambergris",
+                "Vanilla"
+            ]
+        },
         "description": "Aventus is a legendary fruity smoky fragrance.",
         "image": "aventus.jpg"
     },
@@ -464,6 +1410,23 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Ginger",
+                "Pink Pepper"
+            ],
+            "heart": [
+                "Patchouli",
+                "Sandalwood",
+                "Vetiver"
+            ],
+            "base": [
+                "Musk",
+                "Tonka Bean",
+                "Birch"
+            ]
+        },
         "description": "Aventus Cologne is a fresher interpretation of Aventus.",
         "image": "aventus-cologne.jpg"
     },
@@ -473,6 +1436,19 @@
         "intensity": "moderate",
         "season": "spring",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Verbena"
+            ],
+            "heart": [
+                "Violet Leaf"
+            ],
+            "base": [
+                "Sandalwood",
+                "Ambergris"
+            ]
+        },
         "description": "Green Irish Tweed is a classic green aromatic fragrance.",
         "image": "green-irish-tweed.jpg"
     },
@@ -482,6 +1458,21 @@
         "intensity": "soft",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Mandarin"
+            ],
+            "heart": [
+                "Green Tea",
+                "Blackcurrant"
+            ],
+            "base": [
+                "Musk",
+                "Sandalwood",
+                "Petitgrain"
+            ]
+        },
         "description": "Silver Mountain Water is a fresh tea citrus scent.",
         "image": "silver-mountain-water.jpg"
     },
@@ -491,6 +1482,22 @@
         "intensity": "soft",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Sea Salt",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Iris",
+                "Mandarin"
+            ],
+            "base": [
+                "Musk",
+                "Amber",
+                "Woody Notes"
+            ]
+        },
         "description": "Millesime Imperial is a salty marine citrus fragrance.",
         "image": "millesime-imperial.jpg"
     },
@@ -500,6 +1507,23 @@
         "intensity": "moderate",
         "season": "winter",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Pink Pepper",
+                "Lemon",
+                "Bergamot"
+            ],
+            "heart": [
+                "Cedarwood",
+                "Angelica",
+                "Galbanum"
+            ],
+            "base": [
+                "Oud",
+                "Sandalwood",
+                "Musk"
+            ]
+        },
         "description": "Royal Oud blends oud with fresh citrus woods.",
         "image": "royal-oud.jpg"
     },
@@ -509,6 +1533,26 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Apple",
+                "Bergamot",
+                "Lavender",
+                "Mandarin"
+            ],
+            "heart": [
+                "Jasmine",
+                "Violet",
+                "Geranium"
+            ],
+            "base": [
+                "Vanilla",
+                "Cardamom",
+                "Sandalwood",
+                "Guaiac Wood",
+                "Pepper"
+            ]
+        },
         "description": "Layton is a sweet spicy vanilla fragrance.",
         "image": "layton.jpg"
     },
@@ -518,6 +1562,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Cinnamon",
+                "Pepper"
+            ],
+            "heart": [
+                "Tobacco Leaf",
+                "Incense",
+                "Osmanthus"
+            ],
+            "base": [
+                "Vanilla",
+                "Cedarwood",
+                "Vetiver",
+                "Musk"
+            ]
+        },
         "description": "Herod features tobacco and vanilla warmth.",
         "image": "herod.jpg"
     },
@@ -527,6 +1588,23 @@
         "intensity": "moderate",
         "season": "spring",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Heliotrope",
+                "Cumin"
+            ],
+            "heart": [
+                "Almond",
+                "Lavender",
+                "Jasmine"
+            ],
+            "base": [
+                "Vanilla",
+                "Sandalwood",
+                "Amber"
+            ]
+        },
         "description": "Pegasus highlights almond and vanilla.",
         "image": "pegasus.jpg"
     },
@@ -536,6 +1614,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Green Apple",
+                "Nutmeg",
+                "Saffron"
+            ],
+            "heart": [
+                "Tonka Bean",
+                "Rose",
+                "Osmanthus"
+            ],
+            "base": [
+                "Vanilla",
+                "Patchouli",
+                "Opoponax"
+            ]
+        },
         "description": "Carlisle is a rich spicy oriental fragrance.",
         "image": "carlisle.jpg"
     },
@@ -545,6 +1640,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Cinnamon",
+                "Honey",
+                "Osmanthus"
+            ],
+            "heart": [
+                "Amber",
+                "Benzoin",
+                "Labdanum"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Patchouli"
+            ]
+        },
         "description": "Oajan is a warm cinnamon honey fragrance.",
         "image": "oajan.jpg"
     },
@@ -554,6 +1666,24 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon",
+                "Mint",
+                "Grapefruit"
+            ],
+            "heart": [
+                "Lavender",
+                "Rosemary",
+                "Geranium"
+            ],
+            "base": [
+                "Ambroxan",
+                "Sandalwood",
+                "Vetiver"
+            ]
+        },
         "description": "Sedley is a bright citrus aromatic scent.",
         "image": "sedley.jpg"
     },
@@ -563,6 +1693,23 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Mandarin",
+                "Pink Pepper"
+            ],
+            "heart": [
+                "Lavender",
+                "Geranium",
+                "Jasmine"
+            ],
+            "base": [
+                "Ambroxan",
+                "Musk",
+                "Balsam Fir"
+            ]
+        },
         "description": "Percival is a clean modern blue fragrance.",
         "image": "percival.jpg"
     },
@@ -572,6 +1719,20 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Saffron",
+                "Jasmine"
+            ],
+            "heart": [
+                "Amberwood",
+                "Ambergris"
+            ],
+            "base": [
+                "Fir Resin",
+                "Cedarwood"
+            ]
+        },
         "description": "Baccarat Rouge 540 is a sweet amber woody fragrance.",
         "image": "baccarat-rouge-540.jpg"
     },
@@ -581,6 +1742,19 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Cistus Labdanum"
+            ],
+            "heart": [
+                "Benzoin"
+            ],
+            "base": [
+                "Amber",
+                "Vanilla",
+                "Tonka Bean"
+            ]
+        },
         "description": "Grand Soir is a rich amber vanilla fragrance.",
         "image": "grand-soir.jpg"
     },
@@ -590,6 +1764,20 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Bulgarian Rose"
+            ],
+            "heart": [
+                "Turkish Rose",
+                "Vanilla"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "Benzoin"
+            ]
+        },
         "description": "Oud Satin Mood blends oud with roses and vanilla.",
         "image": "oud-satin-mood.jpg"
     },
@@ -599,6 +1787,21 @@
         "intensity": "moderate",
         "season": "spring",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Rosemary"
+            ],
+            "heart": [
+                "Amyris",
+                "Iris",
+                "Chocolate"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Oud"
+            ]
+        },
         "description": "Amyris Homme is a refined woody aromatic fragrance.",
         "image": "amyris-homme.jpg"
     },
@@ -608,6 +1811,20 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Juniper Berries",
+                "Nutmeg"
+            ],
+            "heart": [
+                "Coriander"
+            ],
+            "base": [
+                "Musk",
+                "Amberwood",
+                "Vanilla"
+            ]
+        },
         "description": "Gentle Fluidity Silver is a clean juniper fragrance.",
         "image": "gentle-fluidity-silver.jpg"
     },
@@ -617,6 +1834,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Lavender",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Honey",
+                "Cinnamon",
+                "Cashmere Wood"
+            ],
+            "base": [
+                "Tobacco",
+                "Vanilla",
+                "Tonka Bean"
+            ]
+        },
         "description": "Naxos is a honey tobacco fragrance.",
         "image": "naxos.jpg"
     },
@@ -626,6 +1860,21 @@
         "intensity": "strong",
         "season": "summer",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Orange",
+                "Lemon",
+                "Bergamot"
+            ],
+            "heart": [
+                "Mixed Fruits"
+            ],
+            "base": [
+                "White Musk",
+                "Amber",
+                "Vanilla"
+            ]
+        },
         "description": "Erba Pura is a fruity musk fragrance.",
         "image": "erba-pura.jpg"
     },
@@ -635,6 +1884,25 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Lavender",
+                "Apple",
+                "Cinnamon",
+                "Rosewood"
+            ],
+            "heart": [
+                "Cedarwood",
+                "Lily of the Valley",
+                "Bulgarian Rose"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "Vanilla",
+                "Musk"
+            ]
+        },
         "description": "Alexandria II is a luxurious oud and woody fragrance.",
         "image": "alexandria-ii.jpg"
     },
@@ -644,6 +1912,24 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Bergamot",
+                "Mandarin",
+                "Petitgrain"
+            ],
+            "heart": [
+                "Mint",
+                "Rose",
+                "Lily of the Valley"
+            ],
+            "base": [
+                "Musk",
+                "Amber",
+                "Cedarwood"
+            ]
+        },
         "description": "Renaissance is a bright citrus aromatic fragrance.",
         "image": "renaissance.jpg"
     },
@@ -653,6 +1939,23 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Mint",
+                "Lemon",
+                "Basil",
+                "Thyme"
+            ],
+            "heart": [
+                "Lavender",
+                "Jasmine",
+                "Blackcurrant"
+            ],
+            "base": [
+                "Musk",
+                "Lemon Verbena"
+            ]
+        },
         "description": "Torino21 is a vibrant minty citrus fragrance.",
         "image": "torino21.jpg"
     },
@@ -662,6 +1965,25 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Oregano",
+                "Pepper",
+                "Bergamot"
+            ],
+            "heart": [
+                "Incense",
+                "Amber",
+                "Labdanum",
+                "Opoponax"
+            ],
+            "base": [
+                "Leather",
+                "Oud",
+                "Patchouli",
+                "Sandalwood"
+            ]
+        },
         "description": "Interlude Man is a powerful incense and amber fragrance.",
         "image": "interlude-man.jpg"
     },
@@ -671,6 +1993,25 @@
         "intensity": "moderate",
         "season": "spring",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Rosemary",
+                "Pink Pepper",
+                "Petitgrain"
+            ],
+            "heart": [
+                "Jasmine",
+                "Neroli",
+                "Ylang-Ylang",
+                "Iris"
+            ],
+            "base": [
+                "Sandalwood",
+                "Vetiver",
+                "Cedarwood",
+                "Patchouli"
+            ]
+        },
         "description": "Reflection Man is a refined white floral woody fragrance.",
         "image": "reflection-man.jpg"
     },
@@ -680,6 +2021,25 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Blackberry",
+                "Orange",
+                "Coriander"
+            ],
+            "heart": [
+                "Honey",
+                "Cinnamon",
+                "Rose",
+                "Orchid"
+            ],
+            "base": [
+                "Oud",
+                "Opoponax",
+                "Ambergris",
+                "Patchouli"
+            ]
+        },
         "description": "Jubilation XXV is a rich oriental fragrance with incense.",
         "image": "jubilation-xxv.jpg"
     },
@@ -689,6 +2049,25 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Pink Pepper",
+                "Saffron",
+                "Nutmeg",
+                "Caraway"
+            ],
+            "heart": [
+                "Geranium",
+                "Myrrh",
+                "Tea"
+            ],
+            "base": [
+                "Oud",
+                "Leather",
+                "Incense",
+                "Sandalwood"
+            ]
+        },
         "description": "Epic Man is a spicy woody oriental fragrance.",
         "image": "epic-man.jpg"
     },
@@ -698,6 +2077,24 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Absinthe",
+                "Mint",
+                "Basil"
+            ],
+            "heart": [
+                "Lavender",
+                "Rose",
+                "Incense"
+            ],
+            "base": [
+                "Leather",
+                "Oakmoss",
+                "Tobacco",
+                "Vetiver"
+            ]
+        },
         "description": "Memoir Man is a mysterious absinthe leather fragrance.",
         "image": "memoir-man.jpg"
     },
@@ -707,6 +2104,25 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Sicilian Lemon",
+                "Blackcurrant",
+                "Bergamot",
+                "Spices"
+            ],
+            "heart": [
+                "Jasmine",
+                "Patchouli"
+            ],
+            "base": [
+                "Cedarwood",
+                "Sandalwood",
+                "Vanilla",
+                "Leather",
+                "White Musk"
+            ]
+        },
         "description": "Cedrat Boise is a citrus woody fragrance.",
         "image": "cedrat-boise.jpg"
     },
@@ -716,6 +2132,26 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Cinnamon",
+                "Saffron",
+                "Nutmeg",
+                "Green Apple",
+                "White Pear"
+            ],
+            "heart": [
+                "Patchouli",
+                "Jasmine"
+            ],
+            "base": [
+                "Tobacco",
+                "Vanilla",
+                "Amber",
+                "Sandalwood",
+                "White Musk"
+            ]
+        },
         "description": "Red Tobacco is an intense spicy tobacco fragrance.",
         "image": "red-tobacco.jpg"
     },
@@ -725,6 +2161,25 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Saffron",
+                "Ginger",
+                "Bergamot",
+                "Mandarin"
+            ],
+            "heart": [
+                "Amberwood",
+                "Jasmine",
+                "Rose"
+            ],
+            "base": [
+                "Vanilla",
+                "Sandalwood",
+                "Oakmoss",
+                "White Musk"
+            ]
+        },
         "description": "Instant Crush is a sweet saffron amber fragrance.",
         "image": "instant-crush.jpg"
     },
@@ -734,6 +2189,25 @@
         "intensity": "strong",
         "season": "summer",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Almond",
+                "Pepper",
+                "Coriander"
+            ],
+            "heart": [
+                "Jasmine",
+                "Patchouli",
+                "Oud"
+            ],
+            "base": [
+                "Vanilla",
+                "Vetiver",
+                "White Musk",
+                "Amber"
+            ]
+        },
         "description": "Aoud Lemon Mint blends citrus and oud.",
         "image": "aoud-lemon-mint.jpg"
     },
@@ -743,6 +2217,20 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Lemon"
+            ],
+            "heart": [
+                "Rose",
+                "Sugar"
+            ],
+            "base": [
+                "Vanilla",
+                "White Musk",
+                "Cedarwood"
+            ]
+        },
         "description": "Roses Vanille combines rose with vanilla sweetness.",
         "image": "roses-vanille.jpg"
     },
@@ -752,6 +2240,20 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Floral Notes"
+            ],
+            "heart": [
+                "Rose",
+                "Coffee"
+            ],
+            "base": [
+                "Vanilla",
+                "White Musk",
+                "Amber"
+            ]
+        },
         "description": "Intense Cafe blends coffee with rose and vanilla.",
         "image": "intense-cafe.jpg"
     },
@@ -761,6 +2263,22 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Saffron",
+                "Bergamot"
+            ],
+            "heart": [
+                "Oud",
+                "Rose"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Amber",
+                "White Musk",
+                "Sugar Cane"
+            ]
+        },
         "description": "Arabians Tonka is a sweet oud tonka fragrance.",
         "image": "arabians-tonka.jpg"
     },
@@ -770,6 +2288,19 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Rose"
+            ],
+            "heart": [
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Musk",
+                "Labdanum"
+            ]
+        },
         "description": "Black Aoud is a powerful oud and rose fragrance.",
         "image": "black-aoud.jpg"
     },
@@ -779,6 +2310,20 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Spices"
+            ],
+            "heart": [
+                "Vanilla",
+                "Apricot"
+            ],
+            "base": [
+                "Sandalwood",
+                "Amber",
+                "White Musk"
+            ]
+        },
         "description": "Dark Vanilla is a deep vanilla and woody scent.",
         "image": "dark-vanilla.jpg"
     },
@@ -788,6 +2333,21 @@
         "intensity": "moderate",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Coffee",
+                "Cocoa"
+            ],
+            "heart": [
+                "Chocolate",
+                "Vanilla"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Dry Fruits",
+                "Bitter Orange"
+            ]
+        },
         "description": "Chocolate Greedy is a gourmand chocolate fragrance.",
         "image": "chocolate-greedy.jpg"
     },
@@ -797,6 +2357,25 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Sea Notes",
+                "Apple",
+                "Grapefruit"
+            ],
+            "heart": [
+                "Lavender",
+                "Geranium",
+                "Rosemary"
+            ],
+            "base": [
+                "Patchouli",
+                "Labdanum",
+                "Tonka Bean",
+                "Amberwood"
+            ]
+        },
         "description": "Absolu blends marine freshness with woody warmth.",
         "image": "acqua-di-gio-absolu.jpg"
     },
@@ -806,6 +2385,22 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Lemon"
+            ],
+            "heart": [
+                "Rosemary",
+                "Cypress",
+                "Lavender"
+            ],
+            "base": [
+                "Patchouli",
+                "Musk",
+                "Amber"
+            ]
+        },
         "description": "Profondo Lights adds citrus brightness to Profondo.",
         "image": "acqua-di-gio-profondo-lights.jpg"
     },
@@ -815,6 +2410,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Green Apple",
+                "Green Mandarin"
+            ],
+            "heart": [
+                "Orange Blossom",
+                "Nutmeg",
+                "Lavender"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Amber",
+                "Leather"
+            ]
+        },
         "description": "Code Profumo is a sweet amber tonka fragrance.",
         "image": "armani-code-profumo.jpg"
     },
@@ -824,6 +2436,22 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Green Mandarin",
+                "Apple"
+            ],
+            "heart": [
+                "Orange Blossom",
+                "Nutmeg",
+                "Carrot Seeds"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Suede"
+            ]
+        },
         "description": "Code Absolu adds vanilla and tonka richness.",
         "image": "armani-code-absolu.jpg"
     },
@@ -833,6 +2461,24 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Pink Pepper",
+                "Juniper",
+                "Violet"
+            ],
+            "heart": [
+                "Toffee",
+                "Cinnamon",
+                "Lavender"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Amber",
+                "Suede"
+            ]
+        },
         "description": "Intensely is a sweeter stronger version.",
         "image": "stronger-with-you-intensely.jpg"
     },
@@ -842,6 +2488,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Rum",
+                "Bergamot",
+                "Elemi"
+            ],
+            "heart": [
+                "Lavender",
+                "Davana"
+            ],
+            "base": [
+                "Vanilla",
+                "Chestnut",
+                "Cedarwood",
+                "Patchouli"
+            ]
+        },
         "description": "Absolutely adds rum and deeper sweetness.",
         "image": "stronger-with-you-absolutely.jpg"
     },
@@ -851,6 +2514,21 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Yuzu",
+                "Grapefruit",
+                "Pink Pepper"
+            ],
+            "heart": [
+                "Sea Water",
+                "Violet Leaf"
+            ],
+            "base": [
+                "Ambergris",
+                "Guaiac Wood"
+            ]
+        },
         "description": "Invictus Aqua is a fresher aquatic Invictus.",
         "image": "invictus-aqua.jpg"
     },
@@ -860,6 +2538,20 @@
         "intensity": "strong",
         "season": "summer",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Sea Salt",
+                "Grapefruit"
+            ],
+            "heart": [
+                "Bay Leaf",
+                "Spices"
+            ],
+            "base": [
+                "Amber",
+                "Guaiac Wood"
+            ]
+        },
         "description": "Legend combines marine and woody notes.",
         "image": "invictus-legend.jpg"
     },
@@ -869,6 +2561,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Rhubarb",
+                "Lemon"
+            ],
+            "heart": [
+                "Lavender",
+                "Geranium",
+                "Patchouli"
+            ],
+            "base": [
+                "Vanilla",
+                "Vetiver",
+                "Tolu Balsam"
+            ]
+        },
         "description": "Phantom Parfum is darker and sweeter.",
         "image": "phantom-parfum.jpg"
     },
@@ -878,6 +2587,20 @@
         "intensity": "strong",
         "season": "summer",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Sea Salt"
+            ],
+            "heart": [
+                "Solar Notes",
+                "Tuberose"
+            ],
+            "base": [
+                "Leather",
+                "Amber"
+            ]
+        },
         "description": "1 Million Parfum blends solar leather notes.",
         "image": "1-million-parfum.jpg"
     },
@@ -887,6 +2610,21 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Apple",
+                "Davanna"
+            ],
+            "heart": [
+                "Rose",
+                "Osmanthus"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Patchouli"
+            ]
+        },
         "description": "Elixir adds apple and vanilla richness.",
         "image": "1-million-elixir.jpg"
     },
@@ -896,6 +2634,17 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Geranium"
+            ],
+            "heart": [
+                "Tonka Bean"
+            ],
+            "base": [
+                "Sandalwood"
+            ]
+        },
         "description": "Scandal Le Parfum is darker and sweeter.",
         "image": "scandal-le-parfum.jpg"
     },
@@ -905,6 +2654,24 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Pepper",
+                "Bergamot"
+            ],
+            "heart": [
+                "Lavender",
+                "Leather",
+                "Sage"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Amberwood",
+                "Costus"
+            ]
+        },
         "description": "Le Male Essence de Parfum blends cardamom with leather warmth.",
         "image": "le-male-essence.jpg"
     },
@@ -914,6 +2681,21 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Mint",
+                "Bergamot"
+            ],
+            "heart": [
+                "Lavender",
+                "Violet Leaf"
+            ],
+            "base": [
+                "Vanilla",
+                "Amber",
+                "Sandalwood"
+            ]
+        },
         "description": "Le Male Aviator is a minty aromatic version of Le Male.",
         "image": "le-male-aviator.jpg"
     },
@@ -923,6 +2705,17 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Bergamot"
+            ],
+            "heart": [
+                "Coconut"
+            ],
+            "base": [
+                "Tonka Bean"
+            ]
+        },
         "description": "Le Beau features coconut and tonka bean sweetness.",
         "image": "le-beau.jpg"
     },
@@ -932,6 +2725,22 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Pineapple",
+                "Ginger",
+                "Bergamot"
+            ],
+            "heart": [
+                "Coconut",
+                "Woody Notes"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Amber",
+                "Sandalwood"
+            ]
+        },
         "description": "Le Beau Le Parfum intensifies coconut and amber notes.",
         "image": "le-beau-le-parfum.jpg"
     },
@@ -941,6 +2750,25 @@
         "intensity": "soft",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Bergamot",
+                "Rosewood",
+                "Carambola"
+            ],
+            "heart": [
+                "Tarragon",
+                "Sage",
+                "Cedarwood"
+            ],
+            "base": [
+                "Musk",
+                "Amber",
+                "Saffron",
+                "Woody Notes"
+            ]
+        },
         "description": "Eau Fraiche is a light citrus woody fragrance.",
         "image": "versace-man-eau-fraiche.jpg"
     },
@@ -950,6 +2778,23 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Bitter Orange",
+                "Black Pepper",
+                "Neroli"
+            ],
+            "heart": [
+                "Cardamom",
+                "Saffron",
+                "Olibanum"
+            ],
+            "base": [
+                "Oud",
+                "Patchouli",
+                "Leather"
+            ]
+        },
         "description": "Oud Noir blends oriental spices with oud.",
         "image": "versace-oud-noir.jpg"
     },
@@ -959,6 +2804,23 @@
         "intensity": "moderate",
         "season": "spring",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Lavender",
+                "Clary Sage",
+                "Mandarin"
+            ],
+            "heart": [
+                "Tobacco",
+                "Rose",
+                "Geranium"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Cedarwood",
+                "Vetiver"
+            ]
+        },
         "description": "The Dreamer is a lavender tobacco fragrance.",
         "image": "versace-dreamer.jpg"
     },
@@ -968,6 +2830,24 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "bold",
+        "notes": {
+            "top": [
+                "Mint",
+                "Lemon",
+                "Green Apple"
+            ],
+            "heart": [
+                "Tonka Bean",
+                "Geranium",
+                "Ambroxan"
+            ],
+            "base": [
+                "Vanilla",
+                "Cedarwood",
+                "Vetiver",
+                "Oakmoss"
+            ]
+        },
         "description": "Eros Parfum deepens the vanilla mint DNA.",
         "image": "eros-parfum.jpg"
     },
@@ -977,6 +2857,23 @@
         "intensity": "moderate",
         "season": "winter",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Coriander",
+                "Basil"
+            ],
+            "heart": [
+                "Cardamom",
+                "Ginger",
+                "Orange Blossom"
+            ],
+            "base": [
+                "Tobacco",
+                "Amber",
+                "Cedarwood"
+            ]
+        },
         "description": "The One EDP emphasizes warm amber and tobacco.",
         "image": "the-one-edp.jpg"
     },
@@ -986,6 +2883,22 @@
         "intensity": "strong",
         "season": "winter",
         "vibe": "dark",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Saffron"
+            ],
+            "heart": [
+                "Rose",
+                "Oud",
+                "Clary Sage"
+            ],
+            "base": [
+                "Amber",
+                "Tonka Bean",
+                "Labdanum"
+            ]
+        },
         "description": "Mysterious Night adds oriental oud notes.",
         "image": "the-one-mysterious-night.jpg"
     },
@@ -995,6 +2908,21 @@
         "intensity": "moderate",
         "season": "summer",
         "vibe": "fresh",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Bergamot"
+            ],
+            "heart": [
+                "Ozonic Notes",
+                "Violet Leaf"
+            ],
+            "base": [
+                "Vetiver",
+                "White Musk",
+                "Patchouli"
+            ]
+        },
         "description": "Light Blue Forever highlights grapefruit citrus.",
         "image": "light-blue-forever.jpg"
     },
@@ -1004,8 +2932,322 @@
         "intensity": "moderate",
         "season": "spring",
         "vibe": "elegant",
+        "notes": {
+            "top": [
+                "Blood Orange",
+                "Juniper",
+                "Lemon"
+            ],
+            "heart": [
+                "Clary Sage",
+                "Lavender",
+                "Geranium"
+            ],
+            "base": [
+                "Cedarwood",
+                "Vetiver",
+                "Patchouli"
+            ]
+        },
         "description": "K EDP deepens the woody aromatic signature.",
         "image": "k-edp.jpg"
+    },
+    {
+        "name": "Le Male Essence de Parfum",
+        "maison": "Jean Paul Gaultier",
+        "intensity": "strong",
+        "season": "winter",
+        "vibe": "bold",
+        "description": "Le Male Essence de Parfum blends cardamom with leather warmth.",
+        "image": "le-male-essence.jpg",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Bergamot",
+                "Pepper"
+            ],
+            "heart": [
+                "Lavender",
+                "Cinnamon",
+                "Leather"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Amberwood"
+            ]
+        }
+    },
+    {
+        "name": "Le Male Aviator",
+        "maison": "Jean Paul Gaultier",
+        "intensity": "moderate",
+        "season": "summer",
+        "vibe": "fresh",
+        "description": "Le Male Aviator is a minty aromatic version of Le Male.",
+        "image": "le-male-aviator.jpg",
+        "notes": {
+            "top": [
+                "Mint",
+                "Bergamot"
+            ],
+            "heart": [
+                "Lavender",
+                "Geranium"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Amber"
+            ]
+        }
+    },
+    {
+        "name": "Le Beau",
+        "maison": "Jean Paul Gaultier",
+        "intensity": "moderate",
+        "season": "summer",
+        "vibe": "fresh",
+        "description": "Le Beau features coconut and tonka bean sweetness.",
+        "image": "le-beau.jpg",
+        "notes": {
+            "top": [
+                "Bergamot"
+            ],
+            "heart": [
+                "Coconut"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Vanilla"
+            ]
+        }
+    },
+    {
+        "name": "Le Beau Le Parfum",
+        "maison": "Jean Paul Gaultier",
+        "intensity": "strong",
+        "season": "winter",
+        "vibe": "bold",
+        "description": "Le Beau Le Parfum intensifies coconut and amber notes.",
+        "image": "le-beau-le-parfum.jpg",
+        "notes": {
+            "top": [
+                "Pineapple",
+                "Ginger"
+            ],
+            "heart": [
+                "Coconut"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Amberwood",
+                "Sandalwood"
+            ]
+        }
+    },
+    {
+        "name": "Versace Man Eau Fraiche",
+        "maison": "Versace",
+        "intensity": "soft",
+        "season": "summer",
+        "vibe": "fresh",
+        "description": "Eau Fraiche is a light citrus woody fragrance.",
+        "image": "versace-man-eau-fraiche.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Bergamot",
+                "Starfruit"
+            ],
+            "heart": [
+                "Tarragon",
+                "Cedarwood",
+                "Pepper"
+            ],
+            "base": [
+                "Musk",
+                "Amber",
+                "Woodsy Notes"
+            ]
+        }
+    },
+    {
+        "name": "Versace Oud Noir",
+        "maison": "Versace",
+        "intensity": "strong",
+        "season": "winter",
+        "vibe": "dark",
+        "description": "Oud Noir blends oriental spices with oud.",
+        "image": "versace-oud-noir.jpg",
+        "notes": {
+            "top": [
+                "Black Pepper",
+                "Cardamom",
+                "Orange"
+            ],
+            "heart": [
+                "Saffron",
+                "Rose",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "Leather"
+            ]
+        }
+    },
+    {
+        "name": "Versace Dreamer",
+        "maison": "Versace",
+        "intensity": "moderate",
+        "season": "spring",
+        "vibe": "elegant",
+        "description": "The Dreamer is a lavender tobacco fragrance.",
+        "image": "versace-dreamer.jpg",
+        "notes": {
+            "top": [
+                "Lavender",
+                "Juniper",
+                "Artemisia"
+            ],
+            "heart": [
+                "Tobacco",
+                "Rose",
+                "Geranium"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Vetiver",
+                "Amber"
+            ]
+        }
+    },
+    {
+        "name": "Versace Eros Parfum",
+        "maison": "Versace",
+        "intensity": "strong",
+        "season": "winter",
+        "vibe": "bold",
+        "description": "Eros Parfum deepens the vanilla mint DNA.",
+        "image": "eros-parfum.jpg",
+        "notes": {
+            "top": [
+                "Mint",
+                "Lemon",
+                "Apple"
+            ],
+            "heart": [
+                "Geranium",
+                "Ambroxan"
+            ],
+            "base": [
+                "Vanilla",
+                "Tonka Bean",
+                "Cedarwood"
+            ]
+        }
+    },
+    {
+        "name": "The One Eau de Parfum",
+        "maison": "Dolce & Gabbana",
+        "intensity": "moderate",
+        "season": "winter",
+        "vibe": "elegant",
+        "description": "The One EDP emphasizes warm amber and tobacco.",
+        "image": "the-one-edp.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Coriander",
+                "Basil"
+            ],
+            "heart": [
+                "Cardamom",
+                "Ginger",
+                "Orange Blossom"
+            ],
+            "base": [
+                "Tobacco",
+                "Amber",
+                "Cedarwood"
+            ]
+        }
+    },
+    {
+        "name": "The One Mysterious Night",
+        "maison": "Dolce & Gabbana",
+        "intensity": "strong",
+        "season": "winter",
+        "vibe": "dark",
+        "description": "Mysterious Night adds oriental oud notes.",
+        "image": "the-one-mysterious-night.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Saffron"
+            ],
+            "heart": [
+                "Rose",
+                "Agarwood (Oud)"
+            ],
+            "base": [
+                "Amber",
+                "Tonka Bean",
+                "Labdanum"
+            ]
+        }
+    },
+    {
+        "name": "Light Blue Forever",
+        "maison": "Dolce & Gabbana",
+        "intensity": "moderate",
+        "season": "summer",
+        "vibe": "fresh",
+        "description": "Light Blue Forever highlights grapefruit citrus.",
+        "image": "light-blue-forever.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Bergamot"
+            ],
+            "heart": [
+                "Violet Leaf",
+                "Ozonic Notes"
+            ],
+            "base": [
+                "Musk",
+                "Patchouli",
+                "Vetiver"
+            ]
+        }
+    },
+    {
+        "name": "K Eau de Parfum",
+        "maison": "Dolce & Gabbana",
+        "intensity": "moderate",
+        "season": "spring",
+        "vibe": "elegant",
+        "description": "K EDP deepens the woody aromatic signature.",
+        "image": "k-edp.jpg",
+        "notes": {
+            "top": [
+                "Blood Orange",
+                "Lemon",
+                "Juniper"
+            ],
+            "heart": [
+                "Clary Sage",
+                "Geranium",
+                "Lavender"
+            ],
+            "base": [
+                "Vetiver",
+                "Patchouli",
+                "Cedarwood"
+            ]
+        }
     },
     {
         "name": "Costa Azzurra",
@@ -1014,7 +3256,23 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Costa Azzurra evokes Mediterranean coastal woods.",
-        "image": "costa-azzurra.jpg"
+        "image": "costa-azzurra.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Myrtle",
+                "Seaweed"
+            ],
+            "heart": [
+                "Lavender",
+                "Cypress"
+            ],
+            "base": [
+                "Oakwood",
+                "Amber",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Beau de Jour",
@@ -1023,7 +3281,22 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Beau de Jour is a classic lavender fougere fragrance.",
-        "image": "beau-de-jour.jpg"
+        "image": "beau-de-jour.jpg",
+        "notes": {
+            "top": [
+                "Lavender"
+            ],
+            "heart": [
+                "Rosemary",
+                "Geranium",
+                "Mint"
+            ],
+            "base": [
+                "Oakmoss",
+                "Patchouli",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Soleil Blanc",
@@ -1032,7 +3305,24 @@
         "season": "summer",
         "vibe": "elegant",
         "description": "Soleil Blanc is a luxurious solar coconut scent.",
-        "image": "soleil-blanc.jpg"
+        "image": "soleil-blanc.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Cardamom",
+                "Pistachio"
+            ],
+            "heart": [
+                "Ylang-Ylang",
+                "Tuberose",
+                "Coconut"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Amber",
+                "Benzoin"
+            ]
+        }
     },
     {
         "name": "Mandarino di Amalfi",
@@ -1041,7 +3331,22 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Mandarino di Amalfi is a vibrant citrus fragrance.",
-        "image": "mandarino-di-amalfi.jpg"
+        "image": "mandarino-di-amalfi.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Lemon",
+                "Basil"
+            ],
+            "heart": [
+                "Orange Blossom",
+                "Shiso Leaf"
+            ],
+            "base": [
+                "Musk",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Neroli Portofino",
@@ -1050,7 +3355,24 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Neroli Portofino captures Italian coastal freshness.",
-        "image": "neroli-portofino.jpg"
+        "image": "neroli-portofino.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon",
+                "Mandarin"
+            ],
+            "heart": [
+                "Neroli",
+                "Orange Blossom",
+                "Jasmine"
+            ],
+            "base": [
+                "Amber",
+                "Musk",
+                "Angelica"
+            ]
+        }
     },
     {
         "name": "Aventus for Her",
@@ -1059,7 +3381,25 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Aventus for Her is a fruity floral interpretation.",
-        "image": "aventus-for-her.jpg"
+        "image": "aventus-for-her.jpg",
+        "notes": {
+            "top": [
+                "Green Apple",
+                "Pink Pepper",
+                "Bergamot"
+            ],
+            "heart": [
+                "Rose",
+                "Sandalwood",
+                "Styrax"
+            ],
+            "base": [
+                "Peach",
+                "Blackcurrant",
+                "Amber",
+                "Musk"
+            ]
+        }
     },
     {
         "name": "Viking",
@@ -1068,7 +3408,24 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Viking is a spicy woody masculine fragrance.",
-        "image": "viking.jpg"
+        "image": "viking.jpg",
+        "notes": {
+            "top": [
+                "Pink Pepper",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Peppermint",
+                "Lavender",
+                "Rose"
+            ],
+            "base": [
+                "Vetiver",
+                "Sandalwood",
+                "Patchouli"
+            ]
+        }
     },
     {
         "name": "Viking Cologne",
@@ -1077,7 +3434,24 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Viking Cologne offers a fresher citrus profile.",
-        "image": "viking-cologne.jpg"
+        "image": "viking-cologne.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Lemon",
+                "Pink Pepper"
+            ],
+            "heart": [
+                "Geranium",
+                "Lavender",
+                "Nutmeg"
+            ],
+            "base": [
+                "Vetiver",
+                "Sandalwood",
+                "Frankincense"
+            ]
+        }
     },
     {
         "name": "Original Vetiver",
@@ -1086,7 +3460,24 @@
         "season": "spring",
         "vibe": "fresh",
         "description": "Original Vetiver blends citrus with green vetiver.",
-        "image": "original-vetiver.jpg"
+        "image": "original-vetiver.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Mandarin",
+                "Ginger"
+            ],
+            "heart": [
+                "Vetiver",
+                "Coriander",
+                "White Pepper"
+            ],
+            "base": [
+                "Musk",
+                "Ambergris",
+                "Sandalwood"
+            ]
+        }
     },
     {
         "name": "Himalaya",
@@ -1095,7 +3486,22 @@
         "season": "spring",
         "vibe": "fresh",
         "description": "Himalaya is a citrus woody musk fragrance.",
-        "image": "himalaya.jpg"
+        "image": "himalaya.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Sandalwood"
+            ],
+            "base": [
+                "Musk",
+                "Ambergris",
+                "Cedarwood"
+            ]
+        }
     },
     {
         "name": "Layton Exclusif",
@@ -1104,7 +3510,25 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Layton Exclusif adds oud and deeper woods.",
-        "image": "layton-exclusif.jpg"
+        "image": "layton-exclusif.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Apple",
+                "Almond"
+            ],
+            "heart": [
+                "Geranium",
+                "Rose",
+                "Cinnamon"
+            ],
+            "base": [
+                "Oud",
+                "Vanilla",
+                "Guaiac Wood",
+                "Coffee"
+            ]
+        }
     },
     {
         "name": "Godolphin",
@@ -1113,7 +3537,24 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Godolphin is a rich leather fragrance.",
-        "image": "godolphin.jpg"
+        "image": "godolphin.jpg",
+        "notes": {
+            "top": [
+                "Thyme",
+                "Saffron",
+                "Cypress"
+            ],
+            "heart": [
+                "Rose",
+                "Iris"
+            ],
+            "base": [
+                "Leather",
+                "Vetiver",
+                "Cedarwood",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Kalan",
@@ -1122,7 +3563,23 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Kalan blends spices with amber woods.",
-        "image": "kalan.jpg"
+        "image": "kalan.jpg",
+        "notes": {
+            "top": [
+                "Blood Orange",
+                "Black Pepper",
+                "Spices"
+            ],
+            "heart": [
+                "Lavender",
+                "Orange Blossom"
+            ],
+            "base": [
+                "Amber",
+                "Sandalwood",
+                "Moss"
+            ]
+        }
     },
     {
         "name": "Habdan",
@@ -1131,7 +3588,21 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Habdan mixes apple sweetness with amber.",
-        "image": "habdan.jpg"
+        "image": "habdan.jpg",
+        "notes": {
+            "top": [
+                "Apple",
+                "Saffron"
+            ],
+            "heart": [
+                "Rose"
+            ],
+            "base": [
+                "Amber",
+                "Caramel",
+                "Myrrh"
+            ]
+        }
     },
     {
         "name": "Darley",
@@ -1140,7 +3611,23 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Darley is a refined mint lavender fragrance.",
-        "image": "darley.jpg"
+        "image": "darley.jpg",
+        "notes": {
+            "top": [
+                "Mint",
+                "Lemon",
+                "Bergamot"
+            ],
+            "heart": [
+                "Lavender",
+                "Rosemary"
+            ],
+            "base": [
+                "Sandalwood",
+                "Tonka Bean",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Pegasus Exclusif",
@@ -1149,7 +3636,25 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Pegasus Exclusif adds oud depth to Pegasus.",
-        "image": "pegasus-exclusif.jpg"
+        "image": "pegasus-exclusif.jpg",
+        "notes": {
+            "top": [
+                "Pink Pepper",
+                "Bergamot",
+                "Heliotrope"
+            ],
+            "heart": [
+                "Lavender",
+                "Bitter Almond",
+                "Jasmine"
+            ],
+            "base": [
+                "Oud",
+                "Vanilla",
+                "Sandalwood",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Oriana",
@@ -1158,7 +3663,23 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Oriana is a sweet fruity marshmallow fragrance.",
-        "image": "oriana.jpg"
+        "image": "oriana.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Bergamot",
+                "Grapefruit"
+            ],
+            "heart": [
+                "Orange Blossom",
+                "Raspberry"
+            ],
+            "base": [
+                "Marshmallow",
+                "Musk",
+                "Ambrette"
+            ]
+        }
     },
     {
         "name": "Delina",
@@ -1167,7 +3688,24 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Delina is a famous rose and lychee fragrance.",
-        "image": "delina.jpg"
+        "image": "delina.jpg",
+        "notes": {
+            "top": [
+                "Lychee",
+                "Rhubarb",
+                "Bergamot"
+            ],
+            "heart": [
+                "Turkish Rose",
+                "Peony",
+                "Vanilla"
+            ],
+            "base": [
+                "Musk",
+                "Cashmere Wood",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Delina Exclusif",
@@ -1176,7 +3714,24 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Delina Exclusif is a deeper rose vanilla interpretation.",
-        "image": "delina-exclusif.jpg"
+        "image": "delina-exclusif.jpg",
+        "notes": {
+            "top": [
+                "Lychee",
+                "Pear",
+                "Bergamot"
+            ],
+            "heart": [
+                "Turkish Rose",
+                "Oud",
+                "Incense"
+            ],
+            "base": [
+                "Vanilla",
+                "Amber",
+                "Woody Notes"
+            ]
+        }
     },
     {
         "name": "Delina La Rosée",
@@ -1185,7 +3740,23 @@
         "season": "spring",
         "vibe": "fresh",
         "description": "Delina La Rosée is a fresher watery rose fragrance.",
-        "image": "delina-la-rosee.jpg"
+        "image": "delina-la-rosee.jpg",
+        "notes": {
+            "top": [
+                "Lychee",
+                "Pear",
+                "Bergamot"
+            ],
+            "heart": [
+                "Rose",
+                "Peony",
+                "Aquatic Notes"
+            ],
+            "base": [
+                "Musk",
+                "Woody Notes"
+            ]
+        }
     },
     {
         "name": "Amyris Homme Extrait",
@@ -1194,7 +3765,22 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Amyris Homme Extrait is a richer woody interpretation.",
-        "image": "amyris-homme-extrait.jpg"
+        "image": "amyris-homme-extrait.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Saffron"
+            ],
+            "heart": [
+                "Amyris",
+                "Iris"
+            ],
+            "base": [
+                "Tonka Bean",
+                "Vanilla",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Baccarat Rouge 540 Extrait",
@@ -1203,7 +3789,22 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Baccarat Rouge 540 Extrait intensifies the amber sweetness.",
-        "image": "baccarat-rouge-540-extrait.jpg"
+        "image": "baccarat-rouge-540-extrait.jpg",
+        "notes": {
+            "top": [
+                "Bitter Almond",
+                "Saffron"
+            ],
+            "heart": [
+                "Jasmine",
+                "Cedarwood"
+            ],
+            "base": [
+                "Ambergris",
+                "Musk",
+                "Woody Notes"
+            ]
+        }
     },
     {
         "name": "L'Homme A La Rose",
@@ -1212,7 +3813,21 @@
         "season": "spring",
         "vibe": "fresh",
         "description": "L'Homme A La Rose highlights fresh rose and citrus.",
-        "image": "lhomme-a-la-rose.jpg"
+        "image": "lhomme-a-la-rose.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Bergamot"
+            ],
+            "heart": [
+                "Damask Rose",
+                "Green Notes"
+            ],
+            "base": [
+                "Woody Notes",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Oud Silk Mood",
@@ -1221,7 +3836,21 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Oud Silk Mood blends oud with delicate florals.",
-        "image": "oud-silk-mood.jpg"
+        "image": "oud-silk-mood.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Bulgarian Rose"
+            ],
+            "heart": [
+                "Oud",
+                "Blue Chamomile"
+            ],
+            "base": [
+                "Papyrus",
+                "Musk"
+            ]
+        }
     },
     {
         "name": "Aqua Universalis",
@@ -1230,7 +3859,21 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Aqua Universalis is a bright citrus musk fragrance.",
-        "image": "aqua-universalis.jpg"
+        "image": "aqua-universalis.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Lily of the Valley",
+                "Orange Blossom"
+            ],
+            "base": [
+                "Musk",
+                "Light Woods"
+            ]
+        }
     },
     {
         "name": "Aqua Vitae",
@@ -1239,7 +3882,20 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Aqua Vitae blends citrus with warm woods.",
-        "image": "aqua-vitae.jpg"
+        "image": "aqua-vitae.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Lemon"
+            ],
+            "heart": [
+                "Orange Blossom"
+            ],
+            "base": [
+                "Guaiac Wood",
+                "Tonka Bean"
+            ]
+        }
     },
     {
         "name": "Erba Gold",
@@ -1248,7 +3904,24 @@
         "season": "summer",
         "vibe": "bold",
         "description": "Erba Gold is a luxurious fruity musk fragrance.",
-        "image": "erba-gold.jpg"
+        "image": "erba-gold.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon",
+                "Orange"
+            ],
+            "heart": [
+                "Melon",
+                "Apple",
+                "Clove"
+            ],
+            "base": [
+                "Amber",
+                "Musk",
+                "Vanilla"
+            ]
+        }
     },
     {
         "name": "Uden",
@@ -1257,7 +3930,23 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Uden blends citrus and rum with woody notes.",
-        "image": "uden.jpg"
+        "image": "uden.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Bergamot"
+            ],
+            "heart": [
+                "Rum",
+                "Rose",
+                "Guaiac Wood"
+            ],
+            "base": [
+                "Vanilla",
+                "Coffee",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Nio",
@@ -1266,7 +3955,24 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Nio is a vibrant citrus green fragrance.",
-        "image": "nio.jpg"
+        "image": "nio.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon",
+                "Green Notes"
+            ],
+            "heart": [
+                "Cardamom",
+                "Nutmeg",
+                "Jasmine"
+            ],
+            "base": [
+                "Vetiver",
+                "Cedarwood",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "40 Knots",
@@ -1275,7 +3981,22 @@
         "season": "summer",
         "vibe": "elegant",
         "description": "40 Knots evokes marine amber warmth.",
-        "image": "40-knots.jpg"
+        "image": "40-knots.jpg",
+        "notes": {
+            "top": [
+                "Sea Notes",
+                "Salt"
+            ],
+            "heart": [
+                "Green Notes",
+                "Cedarwood"
+            ],
+            "base": [
+                "Amber",
+                "Musk",
+                "Woody Notes"
+            ]
+        }
     },
     {
         "name": "Uden Overdose",
@@ -1284,7 +4005,23 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Uden Overdose intensifies citrus woods and coffee.",
-        "image": "uden-overdose.jpg"
+        "image": "uden-overdose.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Ginger",
+                "Tobacco",
+                "Coffee"
+            ],
+            "base": [
+                "Vanilla",
+                "Amber",
+                "Woody Notes"
+            ]
+        }
     },
     {
         "name": "Beach Hut Man",
@@ -1293,7 +4030,24 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Beach Hut Man is a green minty woody fragrance.",
-        "image": "beach-hut-man.jpg"
+        "image": "beach-hut-man.jpg",
+        "notes": {
+            "top": [
+                "Mint",
+                "Orange Blossom",
+                "Galbanum"
+            ],
+            "heart": [
+                "Vetiver",
+                "Moss",
+                "Ivy"
+            ],
+            "base": [
+                "Patchouli",
+                "Myrrh",
+                "Woody Notes"
+            ]
+        }
     },
     {
         "name": "Boundless",
@@ -1302,7 +4056,24 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Boundless blends spices, tobacco and woods.",
-        "image": "boundless.jpg"
+        "image": "boundless.jpg",
+        "notes": {
+            "top": [
+                "Blood Orange",
+                "Cardamom",
+                "Ginger"
+            ],
+            "heart": [
+                "Tobacco",
+                "Benzoin",
+                "Myrrh"
+            ],
+            "base": [
+                "Vanilla",
+                "Cocoa",
+                "Woody Notes"
+            ]
+        }
     },
     {
         "name": "Enclave",
@@ -1311,7 +4082,24 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Enclave mixes mint freshness with amber warmth.",
-        "image": "enclave.jpg"
+        "image": "enclave.jpg",
+        "notes": {
+            "top": [
+                "Mint",
+                "Cardamom",
+                "Pink Pepper"
+            ],
+            "heart": [
+                "Frankincense",
+                "Patchouli",
+                "Vetiver"
+            ],
+            "base": [
+                "Amber",
+                "Labdanum",
+                "Leather"
+            ]
+        }
     },
     {
         "name": "Search",
@@ -1320,7 +4108,23 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Search is a modern citrus woody fragrance.",
-        "image": "search.jpg"
+        "image": "search.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Lime",
+                "Mandarin"
+            ],
+            "heart": [
+                "Black Pepper",
+                "Frankincense"
+            ],
+            "base": [
+                "Vetiver",
+                "Cedarwood",
+                "Guaiac Wood"
+            ]
+        }
     },
     {
         "name": "Overture Man",
@@ -1329,7 +4133,24 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Overture Man is a boozy spicy oriental scent.",
-        "image": "overture-man.jpg"
+        "image": "overture-man.jpg",
+        "notes": {
+            "top": [
+                "Cognac",
+                "Cumin",
+                "Cardamom"
+            ],
+            "heart": [
+                "Myrrh",
+                "Cinnamon",
+                "Saffron"
+            ],
+            "base": [
+                "Amber",
+                "Sandalwood",
+                "Smoke"
+            ]
+        }
     },
     {
         "name": "Cedrat Boise Intense",
@@ -1338,7 +4159,23 @@
         "season": "spring",
         "vibe": "bold",
         "description": "Cedrat Boise Intense deepens citrus woods.",
-        "image": "cedrat-boise-intense.jpg"
+        "image": "cedrat-boise-intense.jpg",
+        "notes": {
+            "top": [
+                "Sicilian Lemon",
+                "Blackcurrant",
+                "Spices"
+            ],
+            "heart": [
+                "Patchouli",
+                "Jasmine"
+            ],
+            "base": [
+                "Leather",
+                "Vanilla",
+                "Cedarwood"
+            ]
+        }
     },
     {
         "name": "Sicily",
@@ -1347,7 +4184,23 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Sicily is a vibrant citrus fruity fragrance.",
-        "image": "sicily.jpg"
+        "image": "sicily.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Grapefruit",
+                "Peach"
+            ],
+            "heart": [
+                "Jasmine",
+                "Ylang-Ylang",
+                "Rose"
+            ],
+            "base": [
+                "White Musk",
+                "Sandalwood"
+            ]
+        }
     },
     {
         "name": "Hindu Kush",
@@ -1356,7 +4209,23 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Hindu Kush is a smoky cannabis inspired fragrance.",
-        "image": "hindu-kush.jpg"
+        "image": "hindu-kush.jpg",
+        "notes": {
+            "top": [
+                "Spices",
+                "Cannabis"
+            ],
+            "heart": [
+                "Labdanum",
+                "Patchouli",
+                "Woody Notes"
+            ],
+            "base": [
+                "Amber",
+                "Vanilla",
+                "Guaiac Wood"
+            ]
+        }
     },
     {
         "name": "Aoud Blue Notes",
@@ -1365,7 +4234,23 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Aoud Blue Notes mixes oud with marine notes.",
-        "image": "aoud-blue-notes.jpg"
+        "image": "aoud-blue-notes.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Mandarin"
+            ],
+            "heart": [
+                "Sea Notes",
+                "Ylang-Ylang",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Leather",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Wild Fruits",
@@ -1374,7 +4259,23 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Wild Fruits is a juicy fruity fragrance.",
-        "image": "wild-fruits.jpg"
+        "image": "wild-fruits.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon",
+                "Grapefruit"
+            ],
+            "heart": [
+                "Apple",
+                "Peach",
+                "Blackcurrant"
+            ],
+            "base": [
+                "White Musk",
+                "Cedarwood"
+            ]
+        }
     },
     {
         "name": "Roses Musk",
@@ -1383,7 +4284,19 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Roses Musk blends rose and musk elegance.",
-        "image": "roses-musk.jpg"
+        "image": "roses-musk.jpg",
+        "notes": {
+            "top": [
+                "Rose"
+            ],
+            "heart": [
+                "Jasmine"
+            ],
+            "base": [
+                "White Musk",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Starry Nights",
@@ -1392,7 +4305,23 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Starry Nights mixes citrus with patchouli.",
-        "image": "starry-nights.jpg"
+        "image": "starry-nights.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon",
+                "Apple"
+            ],
+            "heart": [
+                "Rose",
+                "Jasmine",
+                "Patchouli"
+            ],
+            "base": [
+                "Amber",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Honey Aoud",
@@ -1401,7 +4330,22 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Honey Aoud blends honey sweetness with oud.",
-        "image": "honey-aoud.jpg"
+        "image": "honey-aoud.jpg",
+        "notes": {
+            "top": [
+                "Honey",
+                "Cinnamon"
+            ],
+            "heart": [
+                "Rose",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "Vanilla"
+            ]
+        }
     },
     {
         "name": "Vanilla Cake",
@@ -1410,7 +4354,21 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Vanilla Cake is a rich gourmand vanilla fragrance.",
-        "image": "vanilla-cake.jpg"
+        "image": "vanilla-cake.jpg",
+        "notes": {
+            "top": [
+                "Milk",
+                "Butter"
+            ],
+            "heart": [
+                "Almond",
+                "Caramel"
+            ],
+            "base": [
+                "Vanilla",
+                "Sugar"
+            ]
+        }
     },
     {
         "name": "Aoud Night",
@@ -1419,7 +4377,22 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Aoud Night highlights intense oud wood.",
-        "image": "aoud-night.jpg"
+        "image": "aoud-night.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Rose",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Leather",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Sweet Vanilla",
@@ -1428,7 +4401,18 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Sweet Vanilla is a rich vanilla gourmand scent.",
-        "image": "sweet-vanilla.jpg"
+        "image": "sweet-vanilla.jpg",
+        "notes": {
+            "top": [
+                "Apricot"
+            ],
+            "heart": [
+                "Vanilla"
+            ],
+            "base": [
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Arabians",
@@ -1437,7 +4421,22 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Arabians is a powerful oud and leather fragrance.",
-        "image": "arabians.jpg"
+        "image": "arabians.jpg",
+        "notes": {
+            "top": [
+                "Cardamom",
+                "Lavender"
+            ],
+            "heart": [
+                "Rose",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Leather",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Aoud Forest",
@@ -1446,7 +4445,23 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Aoud Forest blends oud with citrus freshness.",
-        "image": "aoud-forest.jpg"
+        "image": "aoud-forest.jpg",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Grapefruit",
+                "Ginger"
+            ],
+            "heart": [
+                "Rosemary",
+                "Vetiver"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "Musk"
+            ]
+        }
     },
     {
         "name": "Ristretto Intense Cafe",
@@ -1455,7 +4470,20 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Ristretto Intense Cafe intensifies coffee and rose.",
-        "image": "ristretto-intense-cafe.jpg"
+        "image": "ristretto-intense-cafe.jpg",
+        "notes": {
+            "top": [
+                "Coffee"
+            ],
+            "heart": [
+                "Rose",
+                "Sugar"
+            ],
+            "base": [
+                "Vanilla",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Blue Matcha",
@@ -1464,7 +4492,21 @@
         "season": "spring",
         "vibe": "fresh",
         "description": "Blue Matcha mixes tea notes with citrus and woods.",
-        "image": "blue-matcha.jpg"
+        "image": "blue-matcha.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Lemon"
+            ],
+            "heart": [
+                "Matcha Tea"
+            ],
+            "base": [
+                "Cedarwood",
+                "Amber",
+                "Musk"
+            ]
+        }
     },
     {
         "name": "Day Dreams",
@@ -1473,7 +4515,21 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Day Dreams is a creamy orange blossom fragrance.",
-        "image": "day-dreams.jpg"
+        "image": "day-dreams.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Orange Blossom"
+            ],
+            "heart": [
+                "Jasmine",
+                "Neroli"
+            ],
+            "base": [
+                "Vanilla",
+                "Sandalwood"
+            ]
+        }
     },
     {
         "name": "Vanilla Extasy",
@@ -1482,7 +4538,21 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Vanilla Extasy is a warm vanilla and floral scent.",
-        "image": "vanilla-extasy.jpg"
+        "image": "vanilla-extasy.jpg",
+        "notes": {
+            "top": [
+                "Apricot",
+                "Vanilla"
+            ],
+            "heart": [
+                "Ylang-Ylang",
+                "Jasmine"
+            ],
+            "base": [
+                "Sandalwood",
+                "Resins"
+            ]
+        }
     },
     {
         "name": "Dark Purple",
@@ -1491,7 +4561,22 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Dark Purple blends plum, rose and patchouli.",
-        "image": "dark-purple.jpg"
+        "image": "dark-purple.jpg",
+        "notes": {
+            "top": [
+                "Plum",
+                "Orange"
+            ],
+            "heart": [
+                "Rose",
+                "Geranium"
+            ],
+            "base": [
+                "Patchouli",
+                "Musk",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Red Vetyver",
@@ -1500,7 +4585,21 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Red Vetyver highlights vetiver with spicy notes.",
-        "image": "red-vetyver.jpg"
+        "image": "red-vetyver.jpg",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Pepper"
+            ],
+            "heart": [
+                "Vetiver",
+                "Patchouli"
+            ],
+            "base": [
+                "Cedarwood",
+                "Musk"
+            ]
+        }
     },
     {
         "name": "Aoud Greedy",
@@ -1509,7 +4608,22 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Aoud Greedy mixes chocolate sweetness with oud.",
-        "image": "aoud-greedy.jpg"
+        "image": "aoud-greedy.jpg",
+        "notes": {
+            "top": [
+                "Licorice",
+                "Lemon"
+            ],
+            "heart": [
+                "Chocolate",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "Vanilla"
+            ]
+        }
     },
     {
         "name": "Pure Gold",
@@ -1518,7 +4632,21 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Pure Gold is a fruity floral fragrance.",
-        "image": "pure-gold.jpg"
+        "image": "pure-gold.jpg",
+        "notes": {
+            "top": [
+                "Apricot",
+                "Mandarin"
+            ],
+            "heart": [
+                "Jasmine",
+                "Orange Blossom"
+            ],
+            "base": [
+                "Vanilla",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Patchouli Leaves",
@@ -1527,7 +4655,19 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Patchouli Leaves highlights earthy patchouli.",
-        "image": "patchouli-leaves.jpg"
+        "image": "patchouli-leaves.jpg",
+        "notes": {
+            "top": [
+                "Patchouli"
+            ],
+            "heart": [
+                "Labdanum"
+            ],
+            "base": [
+                "Amber",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "White Musk",
@@ -1536,7 +4676,18 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "White Musk is a clean soft musk fragrance.",
-        "image": "white-musk.jpg"
+        "image": "white-musk.jpg",
+        "notes": {
+            "top": [
+                "Violet Leaf"
+            ],
+            "heart": [
+                "Ylang-Ylang"
+            ],
+            "base": [
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Musk to Musk",
@@ -1545,7 +4696,20 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Musk to Musk blends soft musks with woods.",
-        "image": "musk-to-musk.jpg"
+        "image": "musk-to-musk.jpg",
+        "notes": {
+            "top": [
+                "Nutmeg"
+            ],
+            "heart": [
+                "Teak Wood",
+                "Agarwood"
+            ],
+            "base": [
+                "White Musk",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Oudmazing",
@@ -1554,7 +4718,24 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Oudmazing blends oud with fruity sweetness.",
-        "image": "oudmazing.jpg"
+        "image": "oudmazing.jpg",
+        "notes": {
+            "top": [
+                "Orange",
+                "Pear",
+                "Fig"
+            ],
+            "heart": [
+                "Jasmine",
+                "Iris",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "Vanilla",
+                "Leather"
+            ]
+        }
     },
     {
         "name": "Pretty Fruity",
@@ -1563,7 +4744,20 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Pretty Fruity is a juicy fruity fragrance.",
-        "image": "pretty-fruity.jpg"
+        "image": "pretty-fruity.jpg",
+        "notes": {
+            "top": [
+                "Blackcurrant",
+                "Passionfruit"
+            ],
+            "heart": [
+                "Magnolia",
+                "Lily"
+            ],
+            "base": [
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Wild Pears",
@@ -1572,7 +4766,21 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Wild Pears is a bright fruity pear fragrance.",
-        "image": "wild-pears.jpg"
+        "image": "wild-pears.jpg",
+        "notes": {
+            "top": [
+                "Pear",
+                "Bergamot"
+            ],
+            "heart": [
+                "Lily of the Valley",
+                "Carnation"
+            ],
+            "base": [
+                "Vanilla",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Orange Aoud",
@@ -1581,7 +4789,21 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Orange Aoud blends citrus brightness with oud.",
-        "image": "orange-aoud.jpg"
+        "image": "orange-aoud.jpg",
+        "notes": {
+            "top": [
+                "Orange",
+                "Bergamot"
+            ],
+            "heart": [
+                "Rose",
+                "Patchouli"
+            ],
+            "base": [
+                "Oud",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Aoud Lagoon",
@@ -1590,7 +4812,22 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Aoud Lagoon mixes aquatic freshness with oud.",
-        "image": "aoud-lagoon.jpg"
+        "image": "aoud-lagoon.jpg",
+        "notes": {
+            "top": [
+                "Mandarin",
+                "Bergamot"
+            ],
+            "heart": [
+                "Lotus",
+                "Tiare Flower"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Sweet Peony",
@@ -1599,7 +4836,20 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Sweet Peony blends peony flowers with vanilla.",
-        "image": "sweet-peony.jpg"
+        "image": "sweet-peony.jpg",
+        "notes": {
+            "top": [
+                "Peony"
+            ],
+            "heart": [
+                "Rose",
+                "Jasmine"
+            ],
+            "base": [
+                "Vanilla",
+                "Sandalwood"
+            ]
+        }
     },
     {
         "name": "Powder Flowers",
@@ -1608,7 +4858,20 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Powder Flowers is a soft powdery floral scent.",
-        "image": "powder-flowers.jpg"
+        "image": "powder-flowers.jpg",
+        "notes": {
+            "top": [
+                "Rose"
+            ],
+            "heart": [
+                "Jasmine",
+                "Osmanthus"
+            ],
+            "base": [
+                "Tonka Bean",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Rose Elixir",
@@ -1617,7 +4880,22 @@
         "season": "spring",
         "vibe": "elegant",
         "description": "Rose Elixir combines rose with strawberry sweetness.",
-        "image": "rose-elixir.jpg"
+        "image": "rose-elixir.jpg",
+        "notes": {
+            "top": [
+                "Strawberry",
+                "Rose"
+            ],
+            "heart": [
+                "Jasmine",
+                "Orange Blossom"
+            ],
+            "base": [
+                "Vanilla",
+                "Amber",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Aoud Melody",
@@ -1626,7 +4904,21 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Aoud Melody mixes oud with leather and spices.",
-        "image": "aoud-melody.jpg"
+        "image": "aoud-melody.jpg",
+        "notes": {
+            "top": [
+                "Leather"
+            ],
+            "heart": [
+                "Rose",
+                "Jasmine"
+            ],
+            "base": [
+                "Oud",
+                "Amber",
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Boise Fruite",
@@ -1635,7 +4927,21 @@
         "season": "summer",
         "vibe": "fresh",
         "description": "Boise Fruite blends fruits with woody notes.",
-        "image": "boise-fruite.jpg"
+        "image": "boise-fruite.jpg",
+        "notes": {
+            "top": [
+                "Bergamot",
+                "Mandarin"
+            ],
+            "heart": [
+                "Violet",
+                "Jasmine"
+            ],
+            "base": [
+                "Sandalwood",
+                "Vetiver"
+            ]
+        }
     },
     {
         "name": "Golden Aoud",
@@ -1644,7 +4950,20 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Golden Aoud is a deep oud and spice fragrance.",
-        "image": "golden-aoud.jpg"
+        "image": "golden-aoud.jpg",
+        "notes": {
+            "top": [
+                "Geranium"
+            ],
+            "heart": [
+                "Rose"
+            ],
+            "base": [
+                "Oud",
+                "Patchouli",
+                "Sandalwood"
+            ]
+        }
     },
     {
         "name": "Crystal Flowers",
@@ -1653,7 +4972,20 @@
         "season": "spring",
         "vibe": "fresh",
         "description": "Crystal Flowers is a delicate floral fragrance.",
-        "image": "crystal-flowers.jpg"
+        "image": "crystal-flowers.jpg",
+        "notes": {
+            "top": [
+                "Mandarin"
+            ],
+            "heart": [
+                "Rose",
+                "Jasmine"
+            ],
+            "base": [
+                "White Musk",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Amber Musk",
@@ -1662,7 +4994,19 @@
         "season": "winter",
         "vibe": "elegant",
         "description": "Amber Musk blends warm amber with soft musk.",
-        "image": "amber-musk.jpg"
+        "image": "amber-musk.jpg",
+        "notes": {
+            "top": [
+                "Amber"
+            ],
+            "heart": [
+                "Rose"
+            ],
+            "base": [
+                "White Musk",
+                "Cedarwood"
+            ]
+        }
     },
     {
         "name": "Aoud Jasmine",
@@ -1671,7 +5015,19 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Aoud Jasmine combines oud with jasmine flowers.",
-        "image": "aoud-jasmine.jpg"
+        "image": "aoud-jasmine.jpg",
+        "notes": {
+            "top": [
+                "Jasmine"
+            ],
+            "heart": [
+                "Rose"
+            ],
+            "base": [
+                "Oud",
+                "Amber"
+            ]
+        }
     },
     {
         "name": "Mukhallat",
@@ -1680,7 +5036,19 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Mukhallat blends strawberry, vanilla and musk.",
-        "image": "mukhallat.jpg"
+        "image": "mukhallat.jpg",
+        "notes": {
+            "top": [
+                "Strawberry",
+                "Almond"
+            ],
+            "heart": [
+                "Vanilla"
+            ],
+            "base": [
+                "White Musk"
+            ]
+        }
     },
     {
         "name": "Aoud Queen Roses",
@@ -1689,7 +5057,19 @@
         "season": "winter",
         "vibe": "dark",
         "description": "Aoud Queen Roses blends rose with oud.",
-        "image": "aoud-queen-roses.jpg"
+        "image": "aoud-queen-roses.jpg",
+        "notes": {
+            "top": [
+                "Hibiscus"
+            ],
+            "heart": [
+                "Rose"
+            ],
+            "base": [
+                "Oud",
+                "Leather"
+            ]
+        }
     },
     {
         "name": "Golden Sand",
@@ -1698,6 +5078,20 @@
         "season": "winter",
         "vibe": "bold",
         "description": "Golden Sand is a warm vanilla caramel fragrance.",
-        "image": "golden-sand.jpg"
+        "image": "golden-sand.jpg",
+        "notes": {
+            "top": [
+                "Bergamot"
+            ],
+            "heart": [
+                "Vanilla",
+                "Spices"
+            ],
+            "base": [
+                "Caramel",
+                "Amber",
+                "White Musk"
+            ]
+        }
     }
 ]
