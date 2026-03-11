@@ -3,6 +3,7 @@
 namespace Database\Seeders;
 
 use App\Models\Fragrance;
+use App\Models\FragranceFamily;
 use App\Models\Maison;
 use App\Models\Note;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
@@ -45,6 +46,15 @@ class FragranceSeeder extends Seeder
                         'type' => $type
                     ]);
                 }
+            }
+
+            foreach ($item['families'] as $familyName) {
+
+                $family = FragranceFamily::firstOrCreate([
+                    'name' => $familyName
+                ]);
+
+                $fragrance->families()->syncWithoutDetaching($family->id);
             }
 
         }
