@@ -17,10 +17,10 @@ class DatabaseSeeder extends Seeder
     {
         $this->call([
             FragranceFamilySeeder::class,
-            NoteSeeder::class,
+            //NoteSeeder::class,
             MaisonSeeder::class,
             FragranceSeeder::class,
-            FragranceNoteSeeder::class,
+            //FragranceNoteSeeder::class,
         ]);
     }
 }

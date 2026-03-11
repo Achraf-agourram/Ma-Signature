@@ -4,6 +4,7 @@ namespace Database\Seeders;
 
 use App\Models\Fragrance;
 use App\Models\Maison;
+use App\Models\Note;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\File;
@@ -22,7 +23,7 @@ class FragranceSeeder extends Seeder
                 'maison' => $item['maison']
             ]);
 
-            Fragrance::create([
+            $fragrance = Fragrance::create([
                 'name' => $item['name'],
                 'intensity' => $item['intensity'],
                 'season' => $item['season'],
@@ -31,6 +32,21 @@ class FragranceSeeder extends Seeder
                 'image' => $item['image'],
                 'maison_id' => $maison->id
             ]);
+
+            foreach ($item['notes'] as $type => $notes) {
+
+                foreach ($notes as $noteName) {
+
+                    $note = Note::firstOrCreate([
+                        'note' => $noteName
+                    ]);
+
+                    $fragrance->notes()->attach($note->id, [
+                        'type' => $type
+                    ]);
+                }
+            }
+
         }
     }
 }
