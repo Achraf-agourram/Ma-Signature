@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('fragrances', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
+            $table->string('name')->unique();
             $table->enum('intensity', ['soft','moderate','strong']);
             $table->enum('season', ['winter','summer','spring']);
             $table->enum('vibe', ['bold','elegant','dark','fresh']);
