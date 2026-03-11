@@ -26,7 +26,12 @@
                 "Cedar",
                 "Labdanum"
             ]
-        }
+        },
+        "families": [
+            "Fresh Spicy",
+            "Aromatic",
+            "Woody"
+        ]
     },
     {
         "name": "Sauvage Elixir",
@@ -53,7 +58,12 @@
                 "Patchouli",
                 "Haitian vetiver"
             ]
-        }
+        },
+        "families": [
+            "Spicy",
+            "Woody",
+            "Amber"
+        ]
     },
     {
         "name": "Fahrenheit",
@@ -91,7 +101,12 @@
                 "Patchouli",
                 "Tonka bean"
             ]
-        }
+        },
+        "families": [
+            "Leather",
+            "Woody",
+            "Floral"
+        ]
     },
     {
         "name": "Dior Homme",
@@ -117,7 +132,12 @@
                 "Haitian vetiver",
                 "White musk"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Aromatic",
+            "Powdery"
+        ]
     },
     {
         "name": "Dior Homme Intense",
@@ -140,7 +160,12 @@
                 "Virginia cedar",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Oriental",
+            "Woody"
+        ]
     },
     {
         "name": "Dior Homme Parfum",
@@ -164,7 +189,12 @@
                 "Agarwood",
                 "Ambrette"
             ]
-        }
+        },
+        "families": [
+            "Leather",
+            "Woody",
+            "Floral"
+        ]
     },
     {
         "name": "Eau Sauvage",
@@ -194,7 +224,12 @@
                 "Musk",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Fresh",
+            "Citrus"
+        ]
     },
     {
         "name": "Bleu de Chanel",
@@ -225,7 +260,12 @@
                 "Patchouli",
                 "Labdanum"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Bleu de Chanel Parfum",
@@ -252,7 +292,12 @@
                 "Iso E Super",
                 "Tonka bean"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Citrus"
+        ]
     },
     {
         "name": "Bleu de Chanel EDP",
@@ -280,7 +325,12 @@
                 "Sandalwood",
                 "Patchouli"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Citrus"
+        ]
     },
     {
         "name": "Allure Homme Sport",
@@ -309,7 +359,12 @@
                 "Amber",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Fresh",
+            "Woody"
+        ]
     },
     {
         "name": "Allure Homme Edition Blanche",
@@ -333,7 +388,12 @@
                 "Amber",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Citrus"
+        ]
     },
     {
         "name": "Platinum Egoiste",
@@ -363,7 +423,12 @@
                 "Sandalwood",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Fougère"
+        ]
     },
     {
         "name": "Antaeus",
@@ -394,7 +459,12 @@
                 "Labdanum",
                 "Castoreum"
             ]
-        }
+        },
+        "families": [
+            "Chypre",
+            "Woody",
+            "Leather"
+        ]
     },
     {
         "name": "Y",
@@ -421,7 +491,12 @@
                 "Vetiver",
                 "Cedar"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Y Eau de Parfum",
@@ -449,7 +524,12 @@
                 "Cedar",
                 "Olibanum"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Spicy",
+            "Amber"
+        ]
     },
     {
         "name": "La Nuit de L'Homme",
@@ -472,7 +552,12 @@
                 "Vetiver",
                 "Caraway"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Woody"
+        ]
     },
     {
         "name": "L'Homme",
@@ -499,7 +584,12 @@
                 "Cedar",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Kouros",
@@ -533,7 +623,12 @@
                 "Amber",
                 "Tonka bean"
             ]
-        }
+        },
+        "families": [
+            "Fougère",
+            "Aromatic",
+            "Oriental"
+        ]
     },
     {
         "name": "M7 Oud Absolu",
@@ -555,7 +650,12 @@
                 "Amber",
                 "Labdanum"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Oriental",
+            "Oud"
+        ]
     },
     {
         "name": "Acqua di Gio",
@@ -594,7 +694,12 @@
                 "Patchouli",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Fresh Aquatic",
+            "Citrus",
+            "Aromatic"
+        ]
     },
     {
         "name": "Acqua di Gio Profumo",
@@ -618,7 +723,12 @@
                 "Incense",
                 "Patchouli"
             ]
-        }
+        },
+        "families": [
+            "Aquatic",
+            "Woody",
+            "Aromatic"
+        ]
     },
     {
         "name": "Acqua di Gio Profondo",
@@ -647,7 +757,12 @@
                 "Patchouli",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Aquatic",
+            "Woody",
+            "Aromatic"
+        ]
     },
     {
         "name": "Armani Code",
@@ -672,7 +787,12 @@
                 "Leather",
                 "Tobacco"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Stronger With You",
@@ -697,7 +817,12 @@
                 "Chestnut",
                 "Amberwood"
             ]
-        }
+        },
+        "families": [
+            "Spicy",
+            "Amber",
+            "Woody"
+        ]
     },
     {
         "name": "1 Million",
@@ -724,7 +849,12 @@
                 "Woody notes",
                 "Indian patchouli"
             ]
-        }
+        },
+        "families": [
+            "Spicy",
+            "Leather",
+            "Oriental"
+        ]
     },
     {
         "name": "1 Million Lucky",
@@ -753,7 +883,12 @@
                 "Oakmoss",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Amber"
+        ]
     },
     {
         "name": "Invictus",
@@ -779,7 +914,12 @@
                 "Oakmoss",
                 "Patchouli"
             ]
-        }
+        },
+        "families": [
+            "Fresh Aquatic",
+            "Woody",
+            "Aromatic"
+        ]
     },
     {
         "name": "Invictus Victory",
@@ -803,7 +943,12 @@
                 "Tonka bean",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Spicy",
+            "Woody",
+            "Amber"
+        ]
     },
     {
         "name": "Phantom",
@@ -831,7 +976,12 @@
                 "Lavender",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Citrus"
+        ]
     },
     {
         "name": "Le Male",
@@ -861,7 +1011,12 @@
                 "Sandalwood",
                 "Cedar"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Fougère",
+            "Spicy"
+        ]
     },
     {
         "name": "Ultra Male",
@@ -890,7 +1045,12 @@
                 "Patchouli",
                 "Cedar"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Gourmand"
+        ]
     },
     {
         "name": "Le Male Le Parfum",
@@ -913,7 +1073,12 @@
                 "Oriental notes",
                 "Woody notes"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Leather"
+        ]
     },
     {
         "name": "Scandal Pour Homme",
@@ -935,7 +1100,12 @@
             "base": [
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Eros",
@@ -962,7 +1132,12 @@
                 "Oakmoss",
                 "Cedar"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Aromatic",
+            "Fresh"
+        ]
     },
     {
         "name": "Eros Flame",
@@ -993,7 +1168,12 @@
                 "Patchouli",
                 "Oakmoss"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Spicy",
+            "Woody"
+        ]
     },
     {
         "name": "Versace Pour Homme",
@@ -1021,7 +1201,12 @@
                 "Musk",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Aromatic",
+            "Citrus"
+        ]
     },
     {
         "name": "Dylan Blue",
@@ -1050,7 +1235,12 @@
                 "Saffron",
                 "Incense"
             ]
-        }
+        },
+        "families": [
+            "Aquatic",
+            "Aromatic",
+            "Woody"
+        ]
     },
     {
         "name": "The One",
@@ -1076,7 +1266,12 @@
                 "Tobacco",
                 "Cedar"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Woody"
+        ]
     },
     {
         "name": "Light Blue",
@@ -1103,7 +1298,12 @@
                 "Musk",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Aquatic"
+        ]
     },
     {
         "name": "Light Blue Eau Intense",
@@ -1126,7 +1326,12 @@
                 "Amberwood",
                 "Musk"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Woody"
+        ]
     },
     {
         "name": "K",
@@ -1154,7 +1359,12 @@
                 "Cedar",
                 "Patchouli"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Citrus"
+        ]
     },
     {
         "name": "Oud Wood",
@@ -1180,7 +1390,12 @@
                 "Vanilla",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Oud",
+            "Spicy"
+        ]
     },
     {
         "name": "Tobacco Vanille",
@@ -1205,7 +1420,12 @@
                 "Dried fruits",
                 "Woody notes"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Gourmand",
+            "Spicy"
+        ]
     },
     {
         "name": "Tuscan Leather",
@@ -1231,7 +1451,12 @@
                 "Woody notes",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Leather",
+            "Woody",
+            "Fruity"
+        ]
     },
     {
         "name": "Ombre Leather",
@@ -1254,7 +1479,12 @@
                 "Moss",
                 "Patchouli"
             ]
-        }
+        },
+        "families": [
+            "Leather",
+            "Floral",
+            "Woody"
+        ]
     },
     {
         "name": "Noir Extreme",
@@ -1283,7 +1513,12 @@
                 "Amber",
                 "Sandalwood"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Grey Vetiver",
@@ -1310,7 +1545,12 @@
                 "Amber",
                 "Oakmoss"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Fresh"
+        ]
     },
     {
         "name": "Black Orchid",
@@ -1344,7 +1584,12 @@
                 "Vetiver",
                 "Chocolate"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Floral",
+            "Chypre"
+        ]
     },
     {
         "name": "Lost Cherry",
@@ -1373,7 +1618,12 @@
                 "Benzoin",
                 "Sandalwood"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Gourmand",
+            "Fruity"
+        ]
     },
     {
         "name": "Aventus",
@@ -1402,7 +1652,12 @@
             ]
         },
         "description": "Aventus is a legendary fruity smoky fragrance.",
-        "image": "aventus.jpg"
+        "image": "aventus.jpg",
+        "families": [
+            "Fruity",
+            "Chypre",
+            "Woody"
+        ]
     },
     {
         "name": "Aventus Cologne",
@@ -1428,7 +1683,12 @@
             ]
         },
         "description": "Aventus Cologne is a fresher interpretation of Aventus.",
-        "image": "aventus-cologne.jpg"
+        "image": "aventus-cologne.jpg",
+        "families": [
+            "Fresh",
+            "Aromatic",
+            "Citrus"
+        ]
     },
     {
         "name": "Green Irish Tweed",
@@ -1450,7 +1710,12 @@
             ]
         },
         "description": "Green Irish Tweed is a classic green aromatic fragrance.",
-        "image": "green-irish-tweed.jpg"
+        "image": "green-irish-tweed.jpg",
+        "families": [
+            "Fresh",
+            "Aromatic",
+            "Woody"
+        ]
     },
     {
         "name": "Silver Mountain Water",
@@ -1474,7 +1739,12 @@
             ]
         },
         "description": "Silver Mountain Water is a fresh tea citrus scent.",
-        "image": "silver-mountain-water.jpg"
+        "image": "silver-mountain-water.jpg",
+        "families": [
+            "Fresh",
+            "Aquatic",
+            "Citrus"
+        ]
     },
     {
         "name": "Millesime Imperial",
@@ -1499,7 +1769,12 @@
             ]
         },
         "description": "Millesime Imperial is a salty marine citrus fragrance.",
-        "image": "millesime-imperial.jpg"
+        "image": "millesime-imperial.jpg",
+        "families": [
+            "Fresh Aquatic",
+            "Citrus",
+            "Marine"
+        ]
     },
     {
         "name": "Royal Oud",
@@ -1525,7 +1800,12 @@
             ]
         },
         "description": "Royal Oud blends oud with fresh citrus woods.",
-        "image": "royal-oud.jpg"
+        "image": "royal-oud.jpg",
+        "families": [
+            "Woody",
+            "Oud",
+            "Spicy"
+        ]
     },
     {
         "name": "Layton",
@@ -1554,7 +1834,12 @@
             ]
         },
         "description": "Layton is a sweet spicy vanilla fragrance.",
-        "image": "layton.jpg"
+        "image": "layton.jpg",
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Herod",
@@ -1580,7 +1865,12 @@
             ]
         },
         "description": "Herod features tobacco and vanilla warmth.",
-        "image": "herod.jpg"
+        "image": "herod.jpg",
+        "families": [
+            "Woody",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Pegasus",
@@ -1606,7 +1896,12 @@
             ]
         },
         "description": "Pegasus highlights almond and vanilla.",
-        "image": "pegasus.jpg"
+        "image": "pegasus.jpg",
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Floral"
+        ]
     },
     {
         "name": "Carlisle",
@@ -1632,7 +1927,12 @@
             ]
         },
         "description": "Carlisle is a rich spicy oriental fragrance.",
-        "image": "carlisle.jpg"
+        "image": "carlisle.jpg",
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Spicy"
+        ]
     },
     {
         "name": "Oajan",
@@ -1658,7 +1958,12 @@
             ]
         },
         "description": "Oajan is a warm cinnamon honey fragrance.",
-        "image": "oajan.jpg"
+        "image": "oajan.jpg",
+        "families": [
+            "Woody",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Sedley",
@@ -1685,7 +1990,12 @@
             ]
         },
         "description": "Sedley is a bright citrus aromatic scent.",
-        "image": "sedley.jpg"
+        "image": "sedley.jpg",
+        "families": [
+            "Aromatic",
+            "Fresh",
+            "Woody"
+        ]
     },
     {
         "name": "Percival",
@@ -1711,7 +2021,12 @@
             ]
         },
         "description": "Percival is a clean modern blue fragrance.",
-        "image": "percival.jpg"
+        "image": "percival.jpg",
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Baccarat Rouge 540",
@@ -1734,7 +2049,12 @@
             ]
         },
         "description": "Baccarat Rouge 540 is a sweet amber woody fragrance.",
-        "image": "baccarat-rouge-540.jpg"
+        "image": "baccarat-rouge-540.jpg",
+        "families": [
+            "Floral",
+            "Woody",
+            "Amber"
+        ]
     },
     {
         "name": "Grand Soir",
@@ -1756,7 +2076,12 @@
             ]
         },
         "description": "Grand Soir is a rich amber vanilla fragrance.",
-        "image": "grand-soir.jpg"
+        "image": "grand-soir.jpg",
+        "families": [
+            "Oriental",
+            "Amber",
+            "Spicy"
+        ]
     },
     {
         "name": "Oud Satin Mood",
@@ -1779,7 +2104,12 @@
             ]
         },
         "description": "Oud Satin Mood blends oud with roses and vanilla.",
-        "image": "oud-satin-mood.jpg"
+        "image": "oud-satin-mood.jpg",
+        "families": [
+            "Oriental",
+            "Oud",
+            "Floral"
+        ]
     },
     {
         "name": "Amyris Homme",
@@ -1803,7 +2133,12 @@
             ]
         },
         "description": "Amyris Homme is a refined woody aromatic fragrance.",
-        "image": "amyris-homme.jpg"
+        "image": "amyris-homme.jpg",
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Spicy"
+        ]
     },
     {
         "name": "Gentle Fluidity Silver",
@@ -1826,7 +2161,12 @@
             ]
         },
         "description": "Gentle Fluidity Silver is a clean juniper fragrance.",
-        "image": "gentle-fluidity-silver.jpg"
+        "image": "gentle-fluidity-silver.jpg",
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Musky"
+        ]
     },
     {
         "name": "Naxos",
@@ -1852,7 +2192,12 @@
             ]
         },
         "description": "Naxos is a honey tobacco fragrance.",
-        "image": "naxos.jpg"
+        "image": "naxos.jpg",
+        "families": [
+            "Gourmand",
+            "Floral",
+            "Woody"
+        ]
     },
     {
         "name": "Erba Pura",
@@ -1876,7 +2221,12 @@
             ]
         },
         "description": "Erba Pura is a fruity musk fragrance.",
-        "image": "erba-pura.jpg"
+        "image": "erba-pura.jpg",
+        "families": [
+            "Musk",
+            "Citrus",
+            "Fruity"
+        ]
     },
     {
         "name": "Alexandria II",
@@ -1904,7 +2254,12 @@
             ]
         },
         "description": "Alexandria II is a luxurious oud and woody fragrance.",
-        "image": "alexandria-ii.jpg"
+        "image": "alexandria-ii.jpg",
+        "families": [
+            "Floral",
+            "Oriental",
+            "Woody"
+        ]
     },
     {
         "name": "Renaissance",
@@ -1931,7 +2286,12 @@
             ]
         },
         "description": "Renaissance is a bright citrus aromatic fragrance.",
-        "image": "renaissance.jpg"
+        "image": "renaissance.jpg",
+        "families": [
+            "Citrus",
+            "Aromatic",
+            "Woody"
+        ]
     },
     {
         "name": "Torino21",
@@ -1957,7 +2317,12 @@
             ]
         },
         "description": "Torino21 is a vibrant minty citrus fragrance.",
-        "image": "torino21.jpg"
+        "image": "torino21.jpg",
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Citrus"
+        ]
     },
     {
         "name": "Interlude Man",
@@ -1985,7 +2350,12 @@
             ]
         },
         "description": "Interlude Man is a powerful incense and amber fragrance.",
-        "image": "interlude-man.jpg"
+        "image": "interlude-man.jpg",
+        "families": [
+            "Aromatic",
+            "Oriental",
+            "Woody"
+        ]
     },
     {
         "name": "Reflection Man",
@@ -2013,7 +2383,12 @@
             ]
         },
         "description": "Reflection Man is a refined white floral woody fragrance.",
-        "image": "reflection-man.jpg"
+        "image": "reflection-man.jpg",
+        "families": [
+            "Aromatic",
+            "Floral",
+            "Woody"
+        ]
     },
     {
         "name": "Jubilation XXV",
@@ -2041,7 +2416,12 @@
             ]
         },
         "description": "Jubilation XXV is a rich oriental fragrance with incense.",
-        "image": "jubilation-xxv.jpg"
+        "image": "jubilation-xxv.jpg",
+        "families": [
+            "Oriental",
+            "Chypre",
+            "Fruity"
+        ]
     },
     {
         "name": "Epic Man",
@@ -2069,7 +2449,12 @@
             ]
         },
         "description": "Epic Man is a spicy woody oriental fragrance.",
-        "image": "epic-man.jpg"
+        "image": "epic-man.jpg",
+        "families": [
+            "Oriental",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Memoir Man",
@@ -2096,7 +2481,12 @@
             ]
         },
         "description": "Memoir Man is a mysterious absinthe leather fragrance.",
-        "image": "memoir-man.jpg"
+        "image": "memoir-man.jpg",
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Oriental"
+        ]
     },
     {
         "name": "Cedrat Boise",
@@ -2124,7 +2514,12 @@
             ]
         },
         "description": "Cedrat Boise is a citrus woody fragrance.",
-        "image": "cedrat-boise.jpg"
+        "image": "cedrat-boise.jpg",
+        "families": [
+            "Woody",
+            "Citrus",
+            "Aromatic"
+        ]
     },
     {
         "name": "Red Tobacco",
@@ -2153,7 +2548,12 @@
             ]
         },
         "description": "Red Tobacco is an intense spicy tobacco fragrance.",
-        "image": "red-tobacco.jpg"
+        "image": "red-tobacco.jpg",
+        "families": [
+            "Spicy",
+            "Oriental",
+            "Woody"
+        ]
     },
     {
         "name": "Instant Crush",
@@ -2181,7 +2581,12 @@
             ]
         },
         "description": "Instant Crush is a sweet saffron amber fragrance.",
-        "image": "instant-crush.jpg"
+        "image": "instant-crush.jpg",
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Musky"
+        ]
     },
     {
         "name": "Aoud Lemon Mint",
@@ -2209,7 +2614,12 @@
             ]
         },
         "description": "Aoud Lemon Mint blends citrus and oud.",
-        "image": "aoud-lemon-mint.jpg"
+        "image": "aoud-lemon-mint.jpg",
+        "families": [
+            "Oud",
+            "Citrus",
+            "Fresh"
+        ]
     },
     {
         "name": "Roses Vanille",
@@ -2232,7 +2642,12 @@
             ]
         },
         "description": "Roses Vanille combines rose with vanilla sweetness.",
-        "image": "roses-vanille.jpg"
+        "image": "roses-vanille.jpg",
+        "families": [
+            "Floral",
+            "Oriental",
+            "Gourmand"
+        ]
     },
     {
         "name": "Intense Cafe",
@@ -2255,7 +2670,12 @@
             ]
         },
         "description": "Intense Cafe blends coffee with rose and vanilla.",
-        "image": "intense-cafe.jpg"
+        "image": "intense-cafe.jpg",
+        "families": [
+            "Gourmand",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Arabians Tonka",
@@ -2280,7 +2700,12 @@
             ]
         },
         "description": "Arabians Tonka is a sweet oud tonka fragrance.",
-        "image": "arabians-tonka.jpg"
+        "image": "arabians-tonka.jpg",
+        "families": [
+            "Oriental",
+            "Amber",
+            "Vanilla"
+        ]
     },
     {
         "name": "Black Aoud",
@@ -2302,7 +2727,12 @@
             ]
         },
         "description": "Black Aoud is a powerful oud and rose fragrance.",
-        "image": "black-aoud.jpg"
+        "image": "black-aoud.jpg",
+        "families": [
+            "Oud",
+            "Woody",
+            "Rose"
+        ]
     },
     {
         "name": "Dark Vanilla",
@@ -2325,7 +2755,12 @@
             ]
         },
         "description": "Dark Vanilla is a deep vanilla and woody scent.",
-        "image": "dark-vanilla.jpg"
+        "image": "dark-vanilla.jpg",
+        "families": [
+            "Oriental",
+            "Vanilla",
+            "Gourmand"
+        ]
     },
     {
         "name": "Chocolate Greedy",
@@ -2349,7 +2784,12 @@
             ]
         },
         "description": "Chocolate Greedy is a gourmand chocolate fragrance.",
-        "image": "chocolate-greedy.jpg"
+        "image": "chocolate-greedy.jpg",
+        "families": [
+            "Gourmand",
+            "Oriental",
+            "Sweet"
+        ]
     },
     {
         "name": "Acqua di Gio Absolu",
@@ -2377,7 +2817,12 @@
             ]
         },
         "description": "Absolu blends marine freshness with woody warmth.",
-        "image": "acqua-di-gio-absolu.jpg"
+        "image": "acqua-di-gio-absolu.jpg",
+        "families": [
+            "Aquatic",
+            "Woody",
+            "Amber"
+        ]
     },
     {
         "name": "Acqua di Gio Profondo Lights",
@@ -2402,7 +2847,12 @@
             ]
         },
         "description": "Profondo Lights adds citrus brightness to Profondo.",
-        "image": "acqua-di-gio-profondo-lights.jpg"
+        "image": "acqua-di-gio-profondo-lights.jpg",
+        "families": [
+            "Aquatic",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Armani Code Profumo",
@@ -2428,7 +2878,12 @@
             ]
         },
         "description": "Code Profumo is a sweet amber tonka fragrance.",
-        "image": "armani-code-profumo.jpg"
+        "image": "armani-code-profumo.jpg",
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Woody"
+        ]
     },
     {
         "name": "Armani Code Absolu",
@@ -2453,7 +2908,12 @@
             ]
         },
         "description": "Code Absolu adds vanilla and tonka richness.",
-        "image": "armani-code-absolu.jpg"
+        "image": "armani-code-absolu.jpg",
+        "families": [
+            "Oriental",
+            "Amber",
+            "Spicy"
+        ]
     },
     {
         "name": "Stronger With You Intensely",
@@ -2480,7 +2940,12 @@
             ]
         },
         "description": "Intensely is a sweeter stronger version.",
-        "image": "stronger-with-you-intensely.jpg"
+        "image": "stronger-with-you-intensely.jpg",
+        "families": [
+            "Spicy",
+            "Amber",
+            "Woody"
+        ]
     },
     {
         "name": "Stronger With You Absolutely",
@@ -2506,7 +2971,12 @@
             ]
         },
         "description": "Absolutely adds rum and deeper sweetness.",
-        "image": "stronger-with-you-absolutely.jpg"
+        "image": "stronger-with-you-absolutely.jpg",
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Amber"
+        ]
     },
     {
         "name": "Invictus Aqua",
@@ -2530,7 +3000,12 @@
             ]
         },
         "description": "Invictus Aqua is a fresher aquatic Invictus.",
-        "image": "invictus-aqua.jpg"
+        "image": "invictus-aqua.jpg",
+        "families": [
+            "Fresh Aquatic",
+            "Citrus",
+            "Woody"
+        ]
     },
     {
         "name": "Invictus Legend",
@@ -2553,7 +3028,12 @@
             ]
         },
         "description": "Legend combines marine and woody notes.",
-        "image": "invictus-legend.jpg"
+        "image": "invictus-legend.jpg",
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Amber"
+        ]
     },
     {
         "name": "Phantom Parfum",
@@ -2579,7 +3059,12 @@
             ]
         },
         "description": "Phantom Parfum is darker and sweeter.",
-        "image": "phantom-parfum.jpg"
+        "image": "phantom-parfum.jpg",
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Oriental"
+        ]
     },
     {
         "name": "1 Million Parfum",
@@ -2602,7 +3087,12 @@
             ]
         },
         "description": "1 Million Parfum blends solar leather notes.",
-        "image": "1-million-parfum.jpg"
+        "image": "1-million-parfum.jpg",
+        "families": [
+            "Spicy",
+            "Oriental",
+            "Leather"
+        ]
     },
     {
         "name": "1 Million Elixir",
@@ -2626,7 +3116,12 @@
             ]
         },
         "description": "Elixir adds apple and vanilla richness.",
-        "image": "1-million-elixir.jpg"
+        "image": "1-million-elixir.jpg",
+        "families": [
+            "Amber",
+            "Oriental",
+            "Woody"
+        ]
     },
     {
         "name": "Scandal Le Parfum",
@@ -2646,7 +3141,12 @@
             ]
         },
         "description": "Scandal Le Parfum is darker and sweeter.",
-        "image": "scandal-le-parfum.jpg"
+        "image": "scandal-le-parfum.jpg",
+        "families": [
+            "Oriental",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Le Male Essence de Parfum",
@@ -2673,7 +3173,12 @@
             ]
         },
         "description": "Le Male Essence de Parfum blends cardamom with leather warmth.",
-        "image": "le-male-essence.jpg"
+        "image": "le-male-essence.jpg",
+        "families": [
+            "Fougère",
+            "Oriental",
+            "Leather"
+        ]
     },
     {
         "name": "Le Male Aviator",
@@ -2697,7 +3202,12 @@
             ]
         },
         "description": "Le Male Aviator is a minty aromatic version of Le Male.",
-        "image": "le-male-aviator.jpg"
+        "image": "le-male-aviator.jpg",
+        "families": [
+            "Aromatic",
+            "Spicy",
+            "Oriental"
+        ]
     },
     {
         "name": "Le Beau",
@@ -2717,7 +3227,12 @@
             ]
         },
         "description": "Le Beau features coconut and tonka bean sweetness.",
-        "image": "le-beau.jpg"
+        "image": "le-beau.jpg",
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Woody"
+        ]
     },
     {
         "name": "Le Beau Le Parfum",
@@ -2742,7 +3257,12 @@
             ]
         },
         "description": "Le Beau Le Parfum intensifies coconut and amber notes.",
-        "image": "le-beau-le-parfum.jpg"
+        "image": "le-beau-le-parfum.jpg",
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Musky"
+        ]
     },
     {
         "name": "Versace Man Eau Fraiche",
@@ -2770,7 +3290,12 @@
             ]
         },
         "description": "Eau Fraiche is a light citrus woody fragrance.",
-        "image": "versace-man-eau-fraiche.jpg"
+        "image": "versace-man-eau-fraiche.jpg",
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Aquatic"
+        ]
     },
     {
         "name": "Versace Oud Noir",
@@ -2796,7 +3321,12 @@
             ]
         },
         "description": "Oud Noir blends oriental spices with oud.",
-        "image": "versace-oud-noir.jpg"
+        "image": "versace-oud-noir.jpg",
+        "families": [
+            "Oud",
+            "Oriental",
+            "Woody"
+        ]
     },
     {
         "name": "Versace Dreamer",
@@ -2822,7 +3352,12 @@
             ]
         },
         "description": "The Dreamer is a lavender tobacco fragrance.",
-        "image": "versace-dreamer.jpg"
+        "image": "versace-dreamer.jpg",
+        "families": [
+            "Aromatic",
+            "Floral",
+            "Woody"
+        ]
     },
     {
         "name": "Versace Eros Parfum",
@@ -2849,7 +3384,12 @@
             ]
         },
         "description": "Eros Parfum deepens the vanilla mint DNA.",
-        "image": "eros-parfum.jpg"
+        "image": "eros-parfum.jpg",
+        "families": [
+            "Oriental",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "The One Eau de Parfum",
@@ -2875,7 +3415,12 @@
             ]
         },
         "description": "The One EDP emphasizes warm amber and tobacco.",
-        "image": "the-one-edp.jpg"
+        "image": "the-one-edp.jpg",
+        "families": [
+            "Oriental",
+            "Amber",
+            "Spicy"
+        ]
     },
     {
         "name": "The One Mysterious Night",
@@ -2900,7 +3445,12 @@
             ]
         },
         "description": "Mysterious Night adds oriental oud notes.",
-        "image": "the-one-mysterious-night.jpg"
+        "image": "the-one-mysterious-night.jpg",
+        "families": [
+            "Oriental",
+            "Amber",
+            "Woody"
+        ]
     },
     {
         "name": "Light Blue Forever",
@@ -2924,7 +3474,12 @@
             ]
         },
         "description": "Light Blue Forever highlights grapefruit citrus.",
-        "image": "light-blue-forever.jpg"
+        "image": "light-blue-forever.jpg",
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Woody"
+        ]
     },
     {
         "name": "K Eau de Parfum",
@@ -2950,7 +3505,12 @@
             ]
         },
         "description": "K EDP deepens the woody aromatic signature.",
-        "image": "k-edp.jpg"
+        "image": "k-edp.jpg",
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Amber"
+        ]
     },
     {
         "name": "Costa Azzurra",
@@ -2975,7 +3535,12 @@
                 "Amber",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Woody"
+        ]
     },
     {
         "name": "Beau de Jour",
@@ -2999,7 +3564,12 @@
                 "Patchouli",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Fougère",
+            "Fresh"
+        ]
     },
     {
         "name": "Soleil Blanc",
@@ -3025,7 +3595,12 @@
                 "Amber",
                 "Benzoin"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Musky",
+            "Woody"
+        ]
     },
     {
         "name": "Mandarino di Amalfi",
@@ -3049,7 +3624,12 @@
                 "Musk",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Citrus",
+            "Fresh",
+            "Aromatic"
+        ]
     },
     {
         "name": "Neroli Portofino",
@@ -3075,7 +3655,12 @@
                 "Musk",
                 "Angelica"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Floral"
+        ]
     },
     {
         "name": "Aventus for Her",
@@ -3102,7 +3687,12 @@
                 "Amber",
                 "Musk"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Fruity",
+            "Woody"
+        ]
     },
     {
         "name": "Viking",
@@ -3128,7 +3718,12 @@
                 "Sandalwood",
                 "Patchouli"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Fresh",
+            "Citrus"
+        ]
     },
     {
         "name": "Viking Cologne",
@@ -3154,7 +3749,12 @@
                 "Sandalwood",
                 "Frankincense"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Fresh",
+            "Citrus"
+        ]
     },
     {
         "name": "Original Vetiver",
@@ -3180,7 +3780,12 @@
                 "Ambergris",
                 "Sandalwood"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Fresh"
+        ]
     },
     {
         "name": "Himalaya",
@@ -3204,7 +3809,12 @@
                 "Ambergris",
                 "Cedarwood"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Layton Exclusif",
@@ -3231,7 +3841,12 @@
                 "Guaiac Wood",
                 "Coffee"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Godolphin",
@@ -3257,7 +3872,12 @@
                 "Cedarwood",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Amber",
+            "Oriental"
+        ]
     },
     {
         "name": "Kalan",
@@ -3282,7 +3902,12 @@
                 "Sandalwood",
                 "Moss"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Spicy",
+            "Aromatic"
+        ]
     },
     {
         "name": "Habdan",
@@ -3305,7 +3930,12 @@
                 "Caramel",
                 "Myrrh"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Woody"
+        ]
     },
     {
         "name": "Darley",
@@ -3330,7 +3960,12 @@
                 "Tonka Bean",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Citrus",
+            "Woody"
+        ]
     },
     {
         "name": "Pegasus Exclusif",
@@ -3357,7 +3992,12 @@
                 "Sandalwood",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Floral"
+        ]
     },
     {
         "name": "Oriana",
@@ -3382,7 +4022,12 @@
                 "Musk",
                 "Ambrette"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Fruity",
+            "Gourmand"
+        ]
     },
     {
         "name": "Delina",
@@ -3408,7 +4053,12 @@
                 "Cashmere Wood",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Fruity",
+            "Musky"
+        ]
     },
     {
         "name": "Delina Exclusif",
@@ -3434,7 +4084,12 @@
                 "Amber",
                 "Woody Notes"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Musky",
+            "Woody"
+        ]
     },
     {
         "name": "Delina La Rosée",
@@ -3459,7 +4114,12 @@
                 "Musk",
                 "Woody Notes"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Fresh",
+            "Musky"
+        ]
     },
     {
         "name": "Amyris Homme Extrait",
@@ -3483,7 +4143,12 @@
                 "Vanilla",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Spicy"
+        ]
     },
     {
         "name": "Baccarat Rouge 540 Extrait",
@@ -3507,7 +4172,12 @@
                 "Musk",
                 "Woody Notes"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Woody",
+            "Amber"
+        ]
     },
     {
         "name": "L'Homme A La Rose",
@@ -3530,7 +4200,12 @@
                 "Woody Notes",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Aromatic",
+            "Woody"
+        ]
     },
     {
         "name": "Oud Silk Mood",
@@ -3553,7 +4228,12 @@
                 "Papyrus",
                 "Musk"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Floral",
+            "Oriental"
+        ]
     },
     {
         "name": "Aqua Universalis",
@@ -3576,7 +4256,12 @@
                 "Musk",
                 "Light Woods"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Floral",
+            "Musky"
+        ]
     },
     {
         "name": "Aqua Vitae",
@@ -3598,7 +4283,12 @@
                 "Guaiac Wood",
                 "Tonka Bean"
             ]
-        }
+        },
+        "families": [
+            "Citrus",
+            "Fresh",
+            "Aromatic"
+        ]
     },
     {
         "name": "Erba Gold",
@@ -3624,7 +4314,12 @@
                 "Musk",
                 "Vanilla"
             ]
-        }
+        },
+        "families": [
+            "Citrus",
+            "Woody",
+            "Musky"
+        ]
     },
     {
         "name": "Uden",
@@ -3649,7 +4344,12 @@
                 "Coffee",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Nio",
@@ -3675,7 +4375,12 @@
                 "Cedarwood",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Citrus",
+            "Aromatic",
+            "Woody"
+        ]
     },
     {
         "name": "40 Knots",
@@ -3699,7 +4404,12 @@
                 "Musk",
                 "Woody Notes"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Citrus",
+            "Aromatic"
+        ]
     },
     {
         "name": "Uden Overdose",
@@ -3724,7 +4434,12 @@
                 "Amber",
                 "Woody Notes"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Beach Hut Man",
@@ -3750,7 +4465,12 @@
                 "Myrrh",
                 "Woody Notes"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Citrus",
+            "Aquatic"
+        ]
     },
     {
         "name": "Boundless",
@@ -3776,7 +4496,12 @@
                 "Cocoa",
                 "Woody Notes"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Spicy"
+        ]
     },
     {
         "name": "Enclave",
@@ -3802,7 +4527,12 @@
                 "Labdanum",
                 "Leather"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Search",
@@ -3827,7 +4557,12 @@
                 "Cedarwood",
                 "Guaiac Wood"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Overture Man",
@@ -3853,7 +4588,12 @@
                 "Sandalwood",
                 "Smoke"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Oriental"
+        ]
     },
     {
         "name": "Cedrat Boise Intense",
@@ -3878,7 +4618,12 @@
                 "Vanilla",
                 "Cedarwood"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Citrus",
+            "Aromatic"
+        ]
     },
     {
         "name": "Sicily",
@@ -3903,7 +4648,12 @@
                 "White Musk",
                 "Sandalwood"
             ]
-        }
+        },
+        "families": [
+            "Citrus",
+            "Fresh",
+            "Woody"
+        ]
     },
     {
         "name": "Hindu Kush",
@@ -3928,7 +4678,12 @@
                 "Vanilla",
                 "Guaiac Wood"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Aoud Blue Notes",
@@ -3953,7 +4708,12 @@
                 "Leather",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Wild Fruits",
@@ -3978,7 +4738,12 @@
                 "White Musk",
                 "Cedarwood"
             ]
-        }
+        },
+        "families": [
+            "Fruity",
+            "Fresh",
+            "Floral"
+        ]
     },
     {
         "name": "Roses Musk",
@@ -3999,7 +4764,12 @@
                 "White Musk",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Musky",
+            "Rose"
+        ]
     },
     {
         "name": "Starry Nights",
@@ -4024,7 +4794,12 @@
                 "Amber",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Woody"
+        ]
     },
     {
         "name": "Honey Aoud",
@@ -4048,7 +4823,12 @@
                 "Amber",
                 "Vanilla"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Oriental",
+            "Gourmand"
+        ]
     },
     {
         "name": "Vanilla Cake",
@@ -4071,7 +4851,12 @@
                 "Vanilla",
                 "Sugar"
             ]
-        }
+        },
+        "families": [
+            "Gourmand",
+            "Vanilla",
+            "Oriental"
+        ]
     },
     {
         "name": "Aoud Night",
@@ -4095,7 +4880,12 @@
                 "Leather",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Sweet Vanilla",
@@ -4115,7 +4905,12 @@
             "base": [
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Vanilla",
+            "Oriental",
+            "Gourmand"
+        ]
     },
     {
         "name": "Arabians",
@@ -4139,7 +4934,12 @@
                 "Leather",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Spicy",
+            "Oud"
+        ]
     },
     {
         "name": "Aoud Forest",
@@ -4164,7 +4964,12 @@
                 "Amber",
                 "Musk"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Woody",
+            "Aromatic"
+        ]
     },
     {
         "name": "Ristretto Intense Cafe",
@@ -4186,7 +4991,12 @@
                 "Vanilla",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Gourmand",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Blue Matcha",
@@ -4209,7 +5019,12 @@
                 "Amber",
                 "Musk"
             ]
-        }
+        },
+        "families": [
+            "Aromatic",
+            "Woody",
+            "Spicy"
+        ]
     },
     {
         "name": "Day Dreams",
@@ -4232,7 +5047,12 @@
                 "Vanilla",
                 "Sandalwood"
             ]
-        }
+        },
+        "families": [
+            "Fresh",
+            "Floral",
+            "Musky"
+        ]
     },
     {
         "name": "Vanilla Extasy",
@@ -4255,7 +5075,12 @@
                 "Sandalwood",
                 "Resins"
             ]
-        }
+        },
+        "families": [
+            "Vanilla",
+            "Oriental",
+            "Gourmand"
+        ]
     },
     {
         "name": "Dark Purple",
@@ -4279,7 +5104,12 @@
                 "Musk",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Oriental",
+            "Fruity"
+        ]
     },
     {
         "name": "Red Vetyver",
@@ -4302,7 +5132,12 @@
                 "Cedarwood",
                 "Musk"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Aromatic",
+            "Earthy"
+        ]
     },
     {
         "name": "Aoud Greedy",
@@ -4326,7 +5161,12 @@
                 "Amber",
                 "Vanilla"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Gourmand",
+            "Oriental"
+        ]
     },
     {
         "name": "Pure Gold",
@@ -4349,7 +5189,12 @@
                 "Vanilla",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Woody",
+            "Musky"
+        ]
     },
     {
         "name": "Patchouli Leaves",
@@ -4370,7 +5215,12 @@
                 "Amber",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Woody",
+            "Earthy",
+            "Oriental"
+        ]
     },
     {
         "name": "White Musk",
@@ -4390,7 +5240,12 @@
             "base": [
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Musky",
+            "Floral",
+            "Fresh"
+        ]
     },
     {
         "name": "Musk to Musk",
@@ -4412,7 +5267,12 @@
                 "White Musk",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Musky",
+            "Floral",
+            "Woody"
+        ]
     },
     {
         "name": "Oudmazing",
@@ -4438,7 +5298,12 @@
                 "Vanilla",
                 "Leather"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Pretty Fruity",
@@ -4460,7 +5325,12 @@
             "base": [
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Fruity",
+            "Floral",
+            "Fresh"
+        ]
     },
     {
         "name": "Wild Pears",
@@ -4483,7 +5353,12 @@
                 "Vanilla",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Fruity",
+            "Fresh",
+            "Floral"
+        ]
     },
     {
         "name": "Orange Aoud",
@@ -4506,7 +5381,12 @@
                 "Oud",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Citrus",
+            "Oriental"
+        ]
     },
     {
         "name": "Aoud Lagoon",
@@ -4530,7 +5410,12 @@
                 "Amber",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Aquatic",
+            "Fresh"
+        ]
     },
     {
         "name": "Sweet Peony",
@@ -4552,7 +5437,12 @@
                 "Vanilla",
                 "Sandalwood"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Sweet",
+            "Musky"
+        ]
     },
     {
         "name": "Powder Flowers",
@@ -4574,7 +5464,12 @@
                 "Tonka Bean",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Powdery",
+            "Musky"
+        ]
     },
     {
         "name": "Rose Elixir",
@@ -4598,7 +5493,12 @@
                 "Amber",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Oriental",
+            "Rose"
+        ]
     },
     {
         "name": "Aoud Melody",
@@ -4621,7 +5521,12 @@
                 "Amber",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Oriental",
+            "Floral"
+        ]
     },
     {
         "name": "Boise Fruite",
@@ -4644,7 +5549,12 @@
                 "Sandalwood",
                 "Vetiver"
             ]
-        }
+        },
+        "families": [
+            "Fruity",
+            "Woody",
+            "Fresh"
+        ]
     },
     {
         "name": "Golden Aoud",
@@ -4666,7 +5576,12 @@
                 "Patchouli",
                 "Sandalwood"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Oriental",
+            "Amber"
+        ]
     },
     {
         "name": "Crystal Flowers",
@@ -4688,7 +5603,12 @@
                 "White Musk",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Floral",
+            "Fresh",
+            "Musky"
+        ]
     },
     {
         "name": "Amber Musk",
@@ -4709,7 +5629,12 @@
                 "White Musk",
                 "Cedarwood"
             ]
-        }
+        },
+        "families": [
+            "Amber",
+            "Musky",
+            "Oriental"
+        ]
     },
     {
         "name": "Aoud Jasmine",
@@ -4730,7 +5655,12 @@
                 "Oud",
                 "Amber"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Floral",
+            "Oriental"
+        ]
     },
     {
         "name": "Mukhallat",
@@ -4751,7 +5681,12 @@
             "base": [
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Oriental",
+            "Spicy"
+        ]
     },
     {
         "name": "Aoud Queen Roses",
@@ -4772,7 +5707,12 @@
                 "Oud",
                 "Leather"
             ]
-        }
+        },
+        "families": [
+            "Oud",
+            "Floral",
+            "Rose"
+        ]
     },
     {
         "name": "Golden Sand",
@@ -4795,6 +5735,11 @@
                 "Amber",
                 "White Musk"
             ]
-        }
+        },
+        "families": [
+            "Oriental",
+            "Amber",
+            "Musky"
+        ]
     }
 ]
